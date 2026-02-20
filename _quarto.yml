@@ -6,7 +6,7 @@ project:
 website:
   title: "Global Business Services (GBS) Today: Geopolitical Business Shifts and Strategies"
   image: images/logo_GBS.svg
-  favicon: images/rwds-favicon.png
+  favicon: images/logo_GBS_favicon.png
   twitter-card:
     site: "@rwdatasci"
   open-graph: true
