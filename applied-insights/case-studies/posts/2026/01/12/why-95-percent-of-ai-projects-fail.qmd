@@ -113,7 +113,7 @@ For Global Business Services Today readers, the implication is direct. AI projec
 
 ::: {.g-col-12 .g-col-md-12}
 About the author:
-: [Lee Clewley (PhD)](https://www.linkedin.com/in/lee-clewley-988bbb18/) is VP of Applied AI & Informatics at [Tangram Therapeutics](https://tangramtx.com/), where he led the design and deployment of LLibra, a multi-LLM, agentic system for early discovery. Formerly Head of Applied AI at [GSK](https://www.gsk.com/en-gb/), he is a member of the Global Business Services Today [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
+: [Lee Clewley (PhD)](https://www.linkedin.com/in/lee-clewley-988bbb18/) is VP of Applied AI & Informatics at [Tangram Therapeutics](https://tangramtx.com/), where he led the design and deployment of LLibra, a multi-LLM, agentic system for early discovery. Formerly Head of Applied AI at [GSK](https://www.gsk.com/en-gb/), he is a member of the Global Business Services Today [editorial board](https://gbs.today/global-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
 
 
 ::: {.g-col-12 .g-col-md-6}

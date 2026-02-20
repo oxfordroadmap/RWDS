@@ -13,7 +13,7 @@ image: images/rgirls.png
 image-alt: R-Girls logo layered on top of a classroom scene, rendered in bright pastel colours, created by Bing Image Creator.
 aliases: 
   - /viewpoints/interviews/posts/2023/09/25/rgirls-interview.html
-  - /the-pulse/interviews/posts/2023/09/25/rgirls-interview.html
+  - /global-pulse/interviews/posts/2023/09/25/rgirls-interview.html
 ---
 [R-Girls](https://rgirls.org.uk/) is an exciting new project launched by Green Oak Academy, a faith-based independent secondary school for girls based in Birmingham, England. The project aims to promote the use of R in schools through the development and delivery of R-based lesson plans for a range of subjects.
 

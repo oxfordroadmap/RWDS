@@ -14,7 +14,7 @@ image-alt: Photo of Julia Lane, professor at the NYU Wagner Graduate School of P
 toc: false
 aliases: 
   - /viewpoints/interviews/posts/2024/03/11/democratizing-data.html
-  - /the-pulse/interviews/posts/2024/03/11/democratizing-data.html
+  - /global-pulse/interviews/posts/2024/03/11/democratizing-data.html
 ---
 
 Figuring out how much money is spent annually on collecting and publishing datasets is a challenge. According to the World Bank, it is [“painfully hard to obtain”](https://blogs.worldbank.org/opendata/how-much-should-governments-spend-data) information just on government spending on data, never mind all the other bodies and organisations who invest in the creation of data assets. But there's an even more challenging figure to pin down: How much value does all this data provide? By and large, there is very little data -- or systematic collection of data -- on dataset usage. There’s no easy way to find all the users of a particular dataset and to see how the data has been used, or what research topics it may have contributed to.

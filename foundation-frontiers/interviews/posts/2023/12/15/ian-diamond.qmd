@@ -15,7 +15,7 @@ image-alt: Photo of national statistician Professor Sir Ian Diamond, standing, w
 toc: false
 aliases: 
   - /viewpoints/interviews/posts/2023/12/15/ian-diamond.html
-  - /the-pulse/interviews/posts/2023/12/15/ian-diamond.html
+  - /global-pulse/interviews/posts/2023/12/15/ian-diamond.html
 ---
 
 For many people, six months into a new job is about the time you start to feel fully on top of things. You've figured out how the organisation works and your place in it. You've met all of your colleagues and got to know your way around the office. The job makes sense, everything's under control. But then, a pandemic hits! What do you do? What is going through your head?
@@ -81,7 +81,7 @@ The answer is yes. Under both the leadership of Laura Gilbert, who is head of 10
 **You gave a keynote address at the RSS Conference in September, and one of the things you mentioned that I was particularly excited about was “Stat Chat.” I understand this is in the very early stages, and I have a very rudimentary understanding that it might well be a large language model trained on the ONS website and the data resources available, as a way to query the website. Can you tell me a bit more about the project?**\
 We’re in private beta, and so there's a whole set of agendas there. But we started it as a much better way to enable people to interrogate a pretty complex website with an enormous amount of data on, and to not only get to the datasets but to get to the existing metadata that are attached to them. What we wanted to do was to use open-source models, where the underlying data and the research behind them are made publicly available, so there's nothing secret about this at the moment, and it's very early stage. But we see the potential, as we move forward, as being able to really make it much easier for people to interrogate the data that we own and the data that we have published. If we can actually use large language models to enable people to be able to ask questions and then to get an authoritative answer from publicly available data, that seems to me to be a good place to be. 
 
-**I imagine, though, that when you're dealing with something like national statistics, you need to be very alive to the danger of [the hallucination problem in large language models](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/11/23/LLM-content-warning.html#qa); that if you're querying something, it doesn't throw up an invented statistic?**\
+**I imagine, though, that when you're dealing with something like national statistics, you need to be very alive to the danger of [the hallucination problem in large language models](https://gbs.today/global-pulse/editors-blog/posts/2022/11/23/LLM-content-warning.html#qa); that if you're querying something, it doesn't throw up an invented statistic?**\
 I couldn't agree more. And that's why we're in private beta, working very hard to make sure that (a) it is working properly, (b) that it's got the right security around it, and (c) that it is actually really useful. 
 
 **The hallucination issue in LLMs leads us onto the topic of trust in information, and obviously the ONS is very keen to ensure that there is trust in official statistics and in the data that is produced. This is a wider problem than anything the ONS can hope to address by itself, but what are the kinds of conversations you're having internally about distrust in official sources of information?**\

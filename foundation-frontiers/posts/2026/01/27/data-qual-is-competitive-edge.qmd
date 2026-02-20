@@ -70,7 +70,7 @@ You can find out more about the *Global Business Services Today* stance on data 
 ::: {.g-col-12 .g-col-md-12}
 About the authors:
 : [Roger Hoerl](https://www.linkedin.com/in/roger-hoerl-6b6b3a5/) is Brate-Peschel Professor of Statistics at Union College, after previously heading the Applied Statistics Laboratory at [GE Global Research](https://www.ge.com/news/reports/tag/ge%20global%20research) for many years. He has been elected to the International Statistical Institute and the International Academy for Quality, recieved numerous statistic awards, and authored five books in the areas of statistics and business improvements. 
-: [Willis Jensen](https://www.linkedin.com/in/willis-jensen-305bba6/) is data and analytics expert, currently Senior Manager of People Analytics and Business Intelligence at [CHG Healthcare](https://chghealthcare.com/). He is an Adjunct Professor of Statistics at Brigham Young University, [writes on Substack](https://willisjensen.substack.com/) and is a member of the Global Business Services Today [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
+: [Willis Jensen](https://www.linkedin.com/in/willis-jensen-305bba6/) is data and analytics expert, currently Senior Manager of People Analytics and Business Intelligence at [CHG Healthcare](https://chghealthcare.com/). He is an Adjunct Professor of Statistics at Brigham Young University, [writes on Substack](https://willisjensen.substack.com/) and is a member of the Global Business Services Today [editorial board](https://gbs.today/global-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
 
 
 ::: {.g-col-12 .g-col-md-6}

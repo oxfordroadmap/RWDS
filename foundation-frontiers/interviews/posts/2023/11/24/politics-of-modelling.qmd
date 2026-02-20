@@ -12,7 +12,7 @@ image-alt: Portrait photo of Andrea Saltelli, co-editor of 'The Politics of Mode
 toc: false
 aliases: 
   - /viewpoints/interviews/posts/2023/11/24/politics-of-modelling.html
-  - /the-pulse/interviews/posts/2023/11/24/politics-of-modelling.html
+  - /global-pulse/interviews/posts/2023/11/24/politics-of-modelling.html
 ---
 
 It was during the first wave of the Covid-19 pandemic, when citizens in many countries around the world were confined to their homes, that Andrea Saltelli and colleagues were inspired to write “a manifesto for responsible modelling.” The television news was, Saltelli recalls, dominated by models of Covid infections, hospitalisations, and deaths. Politicians pointed to charts showing those model projections and spoke of “flattening the curve” – driving down case numbers – so as not to overwhelm healthcare systems.

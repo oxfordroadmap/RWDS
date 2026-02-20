@@ -12,7 +12,7 @@ image: images/alberto-cairo.png
 image-alt: Portrait photo of Alberto Cairo by JCA Photography
 aliases: 
   - /viewpoints/interviews/posts/2023/08/01/alberto-cairo.html
-  - /the-pulse/interviews/posts/2023/08/01/alberto-cairo.html
+  - /global-pulse/interviews/posts/2023/08/01/alberto-cairo.html
 filters:
   - social-share
 share:

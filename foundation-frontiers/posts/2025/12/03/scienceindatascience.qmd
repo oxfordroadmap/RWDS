@@ -113,7 +113,7 @@ Vance, E. A., Trumble, I. M., Alzen, J. L., & Smith, H. S. (2022). Asking great 
 ::: grid
 ::: {.g-col-12 .g-col-md-12}
 About the authors
-: This article was authored by some of our editorial board members. You can find their bios [on our team page](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html). 
+: This article was authored by some of our editorial board members. You can find their bios [on our team page](https://gbs.today/global-pulse/editors-blog/posts/2022/10/18/meet-the-team.html). 
 
 
 :::

@@ -20,6 +20,6 @@ title-block-banner: true
 ### People & Paths
 [realworlddatascience.net/people-paths/index.xml](https://realworlddatascience.net/people-paths/index.xml)
 
-### The Pulse
-[realworlddatascience.net/the-pulse/index.xml](https://realworlddatascience.net/the-pulse/index.xml)
+### Global Pulse
+[gbs.today/global-pulse/index.xml](https://gbs.today/global-pulse/index.xml)
 

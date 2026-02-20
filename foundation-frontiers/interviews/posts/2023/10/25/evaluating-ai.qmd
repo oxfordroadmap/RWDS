@@ -14,7 +14,7 @@ image-alt: Portrait photo of Andrew Garrett, president of the Royal Statistical 
 toc: false
 aliases: 
   - /viewpoints/interviews/posts/2023/10/25/evaluating-ai.html
-  - /the-pulse/interviews/posts/2023/10/25/evaluating-ai.html
+  - /global-pulse/interviews/posts/2023/10/25/evaluating-ai.html
 ---
 
 Next week, the Royal Statistical Society (RSS) is hosting a panel debate on ["Evaluating artificial intelligence: How data science and statistics can make sense of AI models."](https://rss.org.uk/training-events/events/events-2023/rss-events/evaluating-artificial-intelligence-how-data-scienc/#fulleventinfo) The event forms part of the [AI Fringe programme of activities](https://aifringe.org/) and is timed to precede the [UK government's AI Safety Summit at Bletchley Park](https://www.gov.uk/government/publications/ai-safety-summit-introduction).
@@ -22,10 +22,10 @@ Next week, the Royal Statistical Society (RSS) is hosting a panel debate on ["Ev
 RSS president Andrew Garrett is chairing this free, in-person event on 31 October, and he'll be joined by five panellists to discuss big questions around AI model development, evaluation, risk and benefits:
 
 - Mihaela van der Schaar, John Humphrey Plummer professor of machine learning, artificial intelligence and medicine at the University of Cambridge and a fellow at The Alan Turing Institute
-- [Detlef Nauck](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/01/27/talking-chatgpt.html), head of AI and data science research, BT
+- [Detlef Nauck](https://gbs.today/global-pulse/editors-blog/posts/2023/01/27/talking-chatgpt.html), head of AI and data science research, BT
 - [Stephanie Hare](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/04/28/stephanie-hare.html), researcher, broadcaster, and author of *Technology is Not Neutral*
 - Mark Levene, principal scientist, department of data science, National Physical Laboratory
-- [Martin Goodson](https://realworlddatascience.net/the-pulse/posts/2023/10/20/ai-for-humanity.html), chief executive, Evolution AI, and former chair of the RSS Data Science and AI Section
+- [Martin Goodson](https://gbs.today/global-pulse/posts/2023/10/20/ai-for-humanity.html), chief executive, Evolution AI, and former chair of the RSS Data Science and AI Section
 
 We sat down with Andy for a quick-fire Q&A to hear more of what's in store for next week's event.
 

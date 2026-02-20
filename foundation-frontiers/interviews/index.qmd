@@ -16,6 +16,6 @@ comments: false
 aliases: 
   - /news-and-views/interviews/index.html
   - /viewpoints/interviews/index.html
-  - /the-pulse/interviews/index.html
+  - /global-pulse/interviews/index.html
 ---
 

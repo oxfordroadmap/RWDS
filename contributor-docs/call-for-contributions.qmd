@@ -9,7 +9,7 @@ We cannot succeed in these aims without the support and contributions of the dat
 ## What are we looking for? 
 Global Business Services Today has four editorial sections. Please read through and consider where your piece would fit best. Each piece we publish needs to be tailored towards the focus of one of these sections.  
 
-[THE PULSE](https://realworlddatascience.net/the-pulse/)   
+[Global Pulse](https://gbs.today/global-pulse/)   
 News, updates and real time commentary. 
 
 Purpose: To respond to current events, trends and debates in the data science world with rigour, insight and relevance.   

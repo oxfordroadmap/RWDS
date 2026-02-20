@@ -11,7 +11,7 @@ listing:
   - /applied-insights
   - /foundation-frontiers
   - /people-paths
-  - /the-pulse
+  - /global-pulse
   - "!index.qmd"
   sort: "date desc"
   type: grid

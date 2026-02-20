@@ -13,7 +13,7 @@ listing:
   - id: latest-content
     contents: 
     - /applied-insights
-    - /the-pulse
+    - /global-pulse
     - /foundation-frontiers
     - /people-paths
     - "!index.qmd"
@@ -68,9 +68,9 @@ listing:
     max-items: 3
     feed: false
 
-  - id: the-pulse
+  - id: global-pulse
     contents: 
-    - /the-pulse
+    - /global-pulse
     - "!index.qmd"
     - "!editors-note.qmd"
     - "!RWDS-journal.qmd"
@@ -84,7 +84,7 @@ listing:
 
   # - id: editors-blog
   #   contents: 
-  #   - /the-pulse/editors-blog
+  #   - /global-pulse/editors-blog
   #   - "!index.qmd"
   #   sort: "date desc"
   #   type: grid
@@ -122,7 +122,7 @@ toc: false
 ---
 ::: {.content-container}
 ::: {.top-story .purple-background}
-<a href="/the-pulse/newsletter/index.qmd">
+<a href="/global-pulse/newsletter/index.qmd">
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
@@ -178,12 +178,12 @@ Jonathan Auerbach, David Kepplinger, and Nicholas Rios ask, 'What is data scienc
 
 ::: {.content-container}
 ::: {.listing-block}
-<a href="the-pulse/index.qmd">
+<a href="global-pulse/index.qmd">
 
-## The Pulse 
+## Global Pulse 
 </a>
 
-::: {#the-pulse}
+::: {#global-pulse}
 :::
 
 :::
@@ -211,7 +211,7 @@ Jonathan Auerbach, David Kepplinger, and Nicholas Rios ask, 'What is data scienc
 Excerpt from the UK government's framework for the use of generative AI
 
 ::: {.button}
-[Read our key takeaways](the-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.qmd)
+[Read our key takeaways](global-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.qmd)
 :::
 
 :::
@@ -267,7 +267,7 @@ Excerpt from the UK government's framework for the use of generative AI
 ::: {.g-col-12 .g-col-md-2}
 ### About us
 [Our aims](about-rwds.qmd)\
-[Our team](/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
+[Our team](/global-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
 [Partners and funders](rwds-partners.qmd)\
 [Contact us](contact.qmd)
 :::

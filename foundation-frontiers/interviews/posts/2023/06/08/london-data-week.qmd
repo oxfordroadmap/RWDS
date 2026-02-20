@@ -14,7 +14,7 @@ image: images/arthur-yao-HTicW9-i4xY-unsplash.png
 image-alt: Photo of London at night, with Big Ben clock tower towering over the city. Photo by Arthur Yao on Unsplash. 
 aliases: 
   - /viewpoints/interviews/posts/2023/06/08/london-data-week.html
-  - /the-pulse/interviews/posts/2023/06/08/london-data-week.html
+  - /global-pulse/interviews/posts/2023/06/08/london-data-week.html
 ---
 {{< video https://www.youtube.com/embed/nLzL-swPBgg >}}
 

@@ -16,7 +16,7 @@ image-alt: Official photograph of US Census Bureau director Robert Santos, with 
 toc: false
 aliases: 
   - /viewpoints/interviews/posts/2024/01/15/census-bureau.html
-  - /the-pulse/interviews/posts/2024/01/15/census-bureau.html
+  - /global-pulse/interviews/posts/2024/01/15/census-bureau.html
 ---
 
 A month ago now, Global Business Services Today published [an interview with UK national statistician Professor Sir Ian Diamond](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/12/15/ian-diamond.html). In the process of preparing the text of that interview for publication, I found myself reflecting on a conversation I'd been part of earlier in the year with Robert Santos, director of the US Census Bureau.
