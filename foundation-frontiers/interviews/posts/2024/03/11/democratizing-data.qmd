@@ -1,7 +1,7 @@
 ---
 title: "Democratizing Data: Using natural language processing and machine learning to capture dataset usage"
 description: |
-  Real World Data Science speaks with Julia Lane, professor at the NYU Wagner Graduate School of Public Service and visiting fellow at RTI International, about an initiative that seeks to improve public understanding of how datasets are used and the value they provide. 
+  Global Business Services Today speaks with Julia Lane, professor at the NYU Wagner Graduate School of Public Service and visiting fellow at RTI International, about an initiative that seeks to improve public understanding of how datasets are used and the value they provide. 
 categories:
   - AI
   - Data
@@ -118,7 +118,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Democratizing Data: Using natural language processing and machine learning to capture dataset usage." Real World Data Science, March 11, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2024/03/11/democratizing-data.html)
+: Tarran, Brian. 2023. "Democratizing Data: Using natural language processing and machine learning to capture dataset usage." Global Business Services Today, March 11, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2024/03/11/democratizing-data.html)
 :::
 :::
 :::

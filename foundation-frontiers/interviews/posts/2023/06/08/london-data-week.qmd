@@ -1,7 +1,7 @@
 ---
 title: "London Data Week is almost here. What’s it all about?"
 description: |
-  The first ever London Data Week runs from 3–9 July 2023. Real World Data Science meets with organisers Sam Nutt and Jennifer Ding to hear about their vision and plans for the week, and a selection of activities to look forward to.        
+  The first ever London Data Week runs from 3–9 July 2023. Global Business Services Today meets with organisers Sam Nutt and Jennifer Ding to hear about their vision and plans for the week, and a selection of activities to look forward to.        
 categories:
   - Data
   - Innovation
@@ -25,7 +25,7 @@ This transcript has been produced using [speech-to-text transcription software](
 :::
 
 **Brian Tarran**  
-Hello, and welcome to Real World Data Science. I'm Brian Tarran. And today I'm joined by the organisers of the upcoming London Data Week, Sam Nutt and Jennifer Ding. Sam, Jennifer, how are you? Nice to see you here. Thank you for joining us. I wanted to start, maybe you can introduce yourselves to our viewers, tell them a little bit about your background. Sam, I don't know if you want to go first.
+Hello, and welcome to Global Business Services Today. I'm Brian Tarran. And today I'm joined by the organisers of the upcoming London Data Week, Sam Nutt and Jennifer Ding. Sam, Jennifer, how are you? Nice to see you here. Thank you for joining us. I wanted to start, maybe you can introduce yourselves to our viewers, tell them a little bit about your background. Sam, I don't know if you want to go first.
 
 **Sam Nutt**  
 So I'm Sam Nutt. I'm the researcher and data ethicist at the London Office of Technology and Innovation, or LOTI. We're about four years old. We're an innovation unit that sits across 26 of the boroughs of London, and the Mayor of London, the GLA and we work sort of through collaborative processes to sort of foster innovation within local government, in the public sector in London. And I lead partly on our work on data ethics, as the title suggests, but also I lead our work on innovative public participation, which I guess leads nicely into maybe talking a little bit later about London Data Week. But yeah, that's kind of my background and where I'm coming from. My interest in data, I guess, more originally came from the governance side, and how we use it properly and best in public sector context.
@@ -125,7 +125,7 @@ Copyright and licence
 
 How to cite
 
-:   Tarran, Brian. 2023. "London Data Week is almost here. What’s it all about?" Real World Data Science, June 8, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/06/08/london-data-week.html)
+:   Tarran, Brian. 2023. "London Data Week is almost here. What’s it all about?" Global Business Services Today, June 8, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/06/08/london-data-week.html)
 :::
 :::
 :::

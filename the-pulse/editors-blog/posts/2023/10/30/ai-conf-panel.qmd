@@ -1,7 +1,7 @@
 ---
 title: "How data science and statistics can shape the UK's AI strategy"
 description: |
-  At the Royal Statistical Society Conference this September, Real World Data Science brought together data scientists, statisticians, and policy experts to discuss the urgent topic of artificial intelligence -- risks, benefits, evaluation, and regulation. Watch the panel discussion in full!
+  At the Royal Statistical Society Conference this September, Global Business Services Today brought together data scientists, statisticians, and policy experts to discuss the urgent topic of artificial intelligence -- risks, benefits, evaluation, and regulation. Watch the panel discussion in full!
 categories:
   - AI
   - Large language models
@@ -24,7 +24,7 @@ aliases:
 
 **Maxine Setiawan** is a data scientist specialising in AI and data risk and trusted AI in EY UK&I. She works to help clients from various industries assess and manage risks from analytics and AI systems, and implement AI governance to ensure AI systems are implemented with fair, accountable, and trustworthy principles. She combines her socio-technical background with an MSc in Social Data Science from the University of Oxford, and her experience working in data science within consulting firms.
 
-**Sophie Carr** is chair of the [Real World Data Science editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html) and is the founder and owner of Bays Consulting, a data science company. Having trained as an aeronautical engineer, Sophie completed her PhD in Bayesian analysis part time whilst she worked and, following redundancy, founded her own company. She is the VP for education and statistical literacy at the RSS and sits on the executive committees of the Academy for Mathematical Sciences and the International Centre for Mathematical Sciences. She is also currently [the world’s most interesting mathematician](https://ima.org.uk/12382/worlds-most-interesting-mathematician-2019-dr-sophie-carr/).
+**Sophie Carr** is chair of the [Global Business Services Today editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html) and is the founder and owner of Bays Consulting, a data science company. Having trained as an aeronautical engineer, Sophie completed her PhD in Bayesian analysis part time whilst she worked and, following redundancy, founded her own company. She is the VP for education and statistical literacy at the RSS and sits on the executive committees of the Academy for Mathematical Sciences and the International Centre for Mathematical Sciences. She is also currently [the world’s most interesting mathematician](https://ima.org.uk/12382/worlds-most-interesting-mathematician-2019-dr-sophie-carr/).
 
 **Chris Nemeth** is a professor of statistics at Lancaster University. His primary research area is in probabilistic machine learning and computational statistics. He holds an EPSRC-funded Turing AI fellowship on Probabilistic Algorithms for Scalable and Computable Approaches to Learning (PASCAL), and through his fellowship he works closely with partners including Shell, Tesco, Elsevier, Microsoft Research and The Alan Turing Institute. He is chair of the [Royal Statistical Society Section on Computational Statistics and Machine Learning](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/).
 
@@ -46,7 +46,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "How data science and statistics can shape the UK's AI strategy." Real World Data Science, October 30, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/10/30/ai-conf-panel.html)
+: Tarran, Brian. 2023. "How data science and statistics can shape the UK's AI strategy." Global Business Services Today, October 30, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/10/30/ai-conf-panel.html)
 :::
 :::
 :::

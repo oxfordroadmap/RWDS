@@ -1,5 +1,5 @@
 ---
-pagetitle: "Real World Data Science"
+pagetitle: "Global Business Services Today"
 page-layout: custom
 section-divs: false
 editor: source
@@ -8,7 +8,7 @@ search: false
 repo-actions: false
 description: | 
   A showcase for data science in action, brought to you by the Royal Statistical Society in partnership with the American Statistical Association.
-image: images/rwds-logo-150px.png
+image: images/logo_GBS.svg
 listing:
   - id: latest-content
     contents: 
@@ -142,7 +142,7 @@ Well January seemed to fly by. With 2026 well underway, and no letup in the geop
 ::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
-Welcome to **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). We bridge the gap between rigorous analysis and real time relevance, meeting the pace and complexity of today's data driven world with the RSS's trademark steadying presence.
+Welcome to **Global Business Services Today**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). We bridge the gap between rigorous analysis and real time relevance, meeting the pace and complexity of today's data driven world with the RSS's trademark steadying presence.
 :::
 :::
 :::

@@ -183,7 +183,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Osei, F. (2025). "Deploying Agentic AI: What Worked, What Broke, and What We Learned", Real World Data Science, August 12, 20245. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2025/08/12/deploying-agentic-ai.html)
+: Osei, F. (2025). "Deploying Agentic AI: What Worked, What Broke, and What We Learned", Global Business Services Today, August 12, 20245. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2025/08/12/deploying-agentic-ai.html)
 :::
 :::
 :::

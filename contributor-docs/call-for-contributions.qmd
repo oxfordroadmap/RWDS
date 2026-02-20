@@ -1,13 +1,13 @@
 ---
 title: "Call for contributions"
-subtitle: "Share your work, insights and expertise on Real World Data Science"
+subtitle: "Share your work, insights and expertise on Global Business Services Today"
 ---
-Real World Data Science aims to inform, inspire and strengthen the data science community by showcasing real-world examples of data science practice and bringing together data scientists to share knowledge.
+Global Business Services Today aims to inform, inspire and strengthen the data science community by showcasing real-world examples of data science practice and bringing together data scientists to share knowledge.
 
 We cannot succeed in these aims without the support and contributions of the data science community, so thank you for taking the time to review this open call for contributions.
 
 ## What are we looking for? 
-Real World Data Science has four editorial sections. Please read through and consider where your piece would fit best. Each piece we publish needs to be tailored towards the focus of one of these sections.  
+Global Business Services Today has four editorial sections. Please read through and consider where your piece would fit best. Each piece we publish needs to be tailored towards the focus of one of these sections.  
 
 [THE PULSE](https://realworlddatascience.net/the-pulse/)   
 News, updates and real time commentary. 
@@ -75,12 +75,12 @@ To support a culture shift, we ask all contributors to:
 By doing so, you help ensure that your findings are robust, reproducible, and valuable to the wider research community.
 
 ## Our target audience
-Real World Data Science is for all who work in data science. Submissions do not have to appeal to *all* data scientists, however. Contributors should think carefully about who they are trying to reach, and craft their submissions accordingly.
+Global Business Services Today is for all who work in data science. Submissions do not have to appeal to *all* data scientists, however. Contributors should think carefully about who they are trying to reach, and craft their submissions accordingly.
 
 ## What can submissions include?
-We encourage contributors to experiment with and include different media formats in their submissions -- text, images, audio and video. And as our site is built on [Quarto](https://quarto.org/) -- the new open-source publishing system developed by [Posit](https://posit.co/) -- submissions to Real World Data Science can also include code cells, equations, figures, interactive data displays, and other elements to enrich the user experience. 
+We encourage contributors to experiment with and include different media formats in their submissions -- text, images, audio and video. And as our site is built on [Quarto](https://quarto.org/) -- the new open-source publishing system developed by [Posit](https://posit.co/) -- submissions to Global Business Services Today can also include code cells, equations, figures, interactive data displays, and other elements to enrich the user experience. 
 
-If you haven't used Quarto before, check out this fantastic [tutorial](https://quarto.org/docs/get-started/) from the developers. You can also explore some of the range of Quarto features that we use in this [GitHub template repository](https://github.com/finnoh/RWDS_post_template), created by [Finn-Ole Höner](https://github.com/finnoh). It's an excellent resource to help Real World Data Science contributors get started!
+If you haven't used Quarto before, check out this fantastic [tutorial](https://quarto.org/docs/get-started/) from the developers. You can also explore some of the range of Quarto features that we use in this [GitHub template repository](https://github.com/finnoh/RWDS_post_template), created by [Finn-Ole Höner](https://github.com/finnoh). It's an excellent resource to help Global Business Services Today contributors get started!
 
 ## How to submit
 Once you've reviewed our notes for contributors and settled on a content area, theme and audience, please review our [contributor guidelines](contributor-guidelines.qmd) for details on the submission process.

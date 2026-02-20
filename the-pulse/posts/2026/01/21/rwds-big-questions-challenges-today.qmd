@@ -93,7 +93,7 @@ This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ::: {.g-col-12 .g-col-md-6}
 **How to cite** :  
-Flynn, Annie 2026. “**RWDS Big Questions: What are the Key Challenges Facing Data Scientists Today?**” *Real World Data Science*, 2026. [URL](https://realworlddatascience.net/the-pulse/posts/2026/01/rwds-big-questions-challenges-today.html)
+Flynn, Annie 2026. “**RWDS Big Questions: What are the Key Challenges Facing Data Scientists Today?**” *Global Business Services Today*, 2026. [URL](https://realworlddatascience.net/the-pulse/posts/2026/01/rwds-big-questions-challenges-today.html)
 :::
 
 :::

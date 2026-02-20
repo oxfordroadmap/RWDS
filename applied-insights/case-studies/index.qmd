@@ -1,5 +1,5 @@
 ---
-pagetitle: Case studies | Applied Insights | Real World Data Science
+pagetitle: Case studies | Applied Insights | Global Business Services Today
 title: Case studies
 subtitle: How data science is used to solve real-world problems in business, public policy and beyond
 search: false
@@ -18,4 +18,4 @@ listing:
 aliases: 
   - /case-studies/index.html
 ---
-Our case study content is in development. Interested in contributing a case study to Real World Data Science? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd). 
+Our case study content is in development. Interested in contributing a case study to Global Business Services Today? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd). 

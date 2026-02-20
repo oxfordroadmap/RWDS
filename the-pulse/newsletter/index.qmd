@@ -1,5 +1,5 @@
 ---
-pagetitle: Newsletter | The Pulse | Real World Data Science
+pagetitle: Newsletter | The Pulse | Global Business Services Today
 title: "Industrial Strength Data Science"
 subtitle: The newsletter of the Royal Statistical Society's Data Science and AI Section
 description: |

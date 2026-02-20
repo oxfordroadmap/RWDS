@@ -66,7 +66,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "How do people feel about AI? Well, it's complicated." Real World Data Science, June 13, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/06/13/how-do-people-feel-about-ai.html)
+: Tarran, Brian. 2023. "How do people feel about AI? Well, it's complicated." Global Business Services Today, June 13, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/06/13/how-do-people-feel-about-ai.html)
 :::
 :::
 :::

@@ -9,7 +9,7 @@ categories:
 author: Noah Wright
 date: 04/18/2023
 image: images/crowd-of-voices.png
-image-alt: A crowd of people talking, with speech bubbles representing the different voices, digital art. Image created by Real World Data Science using Microsoft Bing Image Creator.
+image-alt: A crowd of people talking, with speech bubbles representing the different voices, digital art. Image created by Global Business Services Today using Microsoft Bing Image Creator.
 toc: true
 aliases: 
   - /careers/posts/2023/04/18/politics-of-performance-measurement.html
@@ -23,7 +23,7 @@ This is a story of making opportunity out of crisis, of the interaction between 
 
 The story ends on a bittersweet note. But, along the way, there are lessons to be learned about how to find common ground, manage expectations, forge productive working partnerships, and sustain a data science project longer term.
 
-![](images/crowd-of-voices.png){fig-align="center" width="500px" fig-alt="A crowd of people talking, with speech bubbles representing the different voices, digital art. Image created by Real World Data Science using Microsoft Bing Image Creator"}
+![](images/crowd-of-voices.png){fig-align="center" width="500px" fig-alt="A crowd of people talking, with speech bubbles representing the different voices, digital art. Image created by Global Business Services Today using Microsoft Bing Image Creator"}
 
 ## Step 1: Consider your options
 
@@ -208,7 +208,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Wright, Noah. 2023. "The politics of performance measurement." Real World Data Science, April 18, 2023. [URL](https://realworlddatascience.net/people-paths/posts/2023/04/18/politics-of-performance-measurement.html)
+: Wright, Noah. 2023. "The politics of performance measurement." Global Business Services Today, April 18, 2023. [URL](https://realworlddatascience.net/people-paths/posts/2023/04/18/politics-of-performance-measurement.html)
 :::
 :::
 :::

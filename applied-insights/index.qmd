@@ -1,5 +1,5 @@
 ---
-pagetitle: Applied Insights | Real World Data Science
+pagetitle: Applied Insights | Global Business Services Today
 title: Applied Insights
 subtitle: "How data science is used to solve real-world problems in business, public policy and beyond. 
 In this section: [Case Studies](case-studies/index.qmd) | [Tutorials](tutorials/index.qmd)"
@@ -18,4 +18,4 @@ listing:
   page-size: 30
   feed: true
 ---
-Our Applied Insights content is in development. Interested in contributing to Real World Data Science? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd).
+Our Applied Insights content is in development. Interested in contributing to Global Business Services Today? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd).

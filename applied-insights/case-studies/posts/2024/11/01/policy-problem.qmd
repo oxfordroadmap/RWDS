@@ -102,7 +102,7 @@ Copyright and licence
 
 How to cite
 
-:   Keller S, Shipp S, Lancaster V, Salvo J (2024). "Advancing Data Science in Official Statistics: The Policy Problem." Real World Data Science, November 01, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/01/policy-problem.html)
+:   Keller S, Shipp S, Lancaster V, Salvo J (2024). "Advancing Data Science in Official Statistics: The Policy Problem." Global Business Services Today, November 01, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/01/policy-problem.html)
 :::
 :::
 :::

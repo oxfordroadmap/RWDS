@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Global Business Services (GBS) Today: Geopolitical Business Shifts and Strategies"
-  image: images/rwds-logo-150px.png
+  image: images/logo_GBS.svg
   favicon: images/rwds-favicon.png
   twitter-card:
     site: "@rwdatasci"
@@ -21,8 +21,8 @@ website:
   navbar:
     toggle-position: right
     background: "#f0eeeb"
-    logo: images/rwds-logo-150px.png
-    logo-alt: "Real World Data Science brand"
+    logo: images/logo_GBS.svg
+    logo-alt: "Global Business Services Today brand"
     title: false
     collapse-below: lg
     right:

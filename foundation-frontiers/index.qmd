@@ -1,5 +1,5 @@
 ---
-pagetitle: Foundations & Frontiers | Real World Data Science
+pagetitle: Foundations & Frontiers | Global Business Services Today
 title: Foundations & Frontiers
 subtitle: "The ideas behind the impact: the concepts, tools and methods that make data science possible. 
 In this section: [DataScienceBites](datasciencebites/index.qmd) | [Interviews](interviews/index.qmd)"
@@ -21,4 +21,4 @@ listing:
 aliases: 
   - /ideas/index.html
 ---
-Interested in contributing to Real World Data Science? [Check out our call for contributions](https://realworlddatascience.net/the-pulse/editors-blog/posts/2025/07/07/relaunch-CFS.html).
+Interested in contributing to Global Business Services Today? [Check out our call for contributions](https://realworlddatascience.net/the-pulse/editors-blog/posts/2025/07/07/relaunch-CFS.html).

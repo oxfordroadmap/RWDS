@@ -2,7 +2,7 @@
 title: "Style guide"
 ---
 ## Tone 
-Content must be presented in a conversational yet professional and respectful tone. Contributors should imagine themselves delivering a lively, engaging conference presentation, rather than preparing a dry, formal report or journal publication. Contributors to Real World Data Science are creating content for their colleagues and peers and should “speak” to them as such. 
+Content must be presented in a conversational yet professional and respectful tone. Contributors should imagine themselves delivering a lively, engaging conference presentation, rather than preparing a dry, formal report or journal publication. Contributors to Global Business Services Today are creating content for their colleagues and peers and should “speak” to them as such. 
 
 ## Structure 
 Each contribution must, in effect, tell “a story”, and so contributors need to be clear (a) what their story is, (b) why people should be interested, and (c) what its main message or key takeaways are. To help figure this out, we recommend contributors apply the [XY Story Formula](https://jessicaabel.com/xy-story-formula/). 
@@ -31,7 +31,7 @@ Contributors must include within their submissions any links and/or references t
 Citations are to be formatted in [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) author-date format. 
 
 ## Use of images 
-Images for general illustration purposes will be sourced and -- where necessary and within reason -- paid for by Real World Data Science. 
+Images for general illustration purposes will be sourced and -- where necessary and within reason -- paid for by Global Business Services Today. 
 
 <!-- Word counts 
 [To be completed at a later date, ideally once sample articles have been commissioned and accepted for publication.] --> 

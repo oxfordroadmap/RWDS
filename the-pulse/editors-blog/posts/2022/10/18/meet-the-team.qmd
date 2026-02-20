@@ -1,7 +1,7 @@
 ---
 title: "Meet the team"
 description: |
-  Introducing the editors of Real World Data Science.
+  Introducing the editors of Global Business Services Today.
 categories:
   - People
   - Biographies
@@ -10,7 +10,7 @@ date: 10/18/2022
 date-modified: 06/20/2025
 toc: false
 image: images/team.png
-image-alt: Portrait photos of 12 members of the Real World Data Science Editorial team
+image-alt: Portrait photos of 12 members of the Global Business Services Today Editorial team
 aliases: 
   - /editors-blog/meet-the-team/meet-the-team.html
   - /news-and-views/editors-blog/posts/2022-10-18-meet-the-team/meet-the-team.html
@@ -68,7 +68,7 @@ I am excited to see what this site can achieve. I’m particularly keen to suppo
 
 I'm a statistician and leader with over 20 years of experience applying data science methods to real-world challenges in business, quality, product development, manufacturing, and supply chain. I hold a PhD in statistics from Virginia Tech and an MS in statistics from Brigham Young University (BYU).  
 
-Currently, I lead a business intelligence team at CHG Healthcare in the USA and serve as an Adjunct Professor of Statistics at BYU, where I get to share my enthusiasm for data with students.  A long-time member and volunteer for the ASA, I represent the association on the Real World Data Science board. 
+Currently, I lead a business intelligence team at CHG Healthcare in the USA and serve as an Adjunct Professor of Statistics at BYU, where I get to share my enthusiasm for data with students.  A long-time member and volunteer for the ASA, I represent the association on the Global Business Services Today board. 
 
 Throughout my career, I’ve built and led high-performing teams, developed data-drive solutions, and helped organizations become more analytically mature. While I enjoy the technical depth of statistical modeling, I’m most passionate about using data to solve meaningful business problems. With over 25 publications focused on practical applications, I specialize in bridging the gap between business and the broad tent of data science—helping leaders ask better questions and act on insights.
 
@@ -94,7 +94,7 @@ I am a BT Distinguished Engineer and the head of AI and data science research fo
 
 I am a computer scientist by training and hold a PhD and a Postdoctoral Degree (Habilitation) in machine learning and data analytics. I am also a visiting professor at Bournemouth University and a private docent at the Otto-von-Guericke University of Magdeburg, Germany. I have published 3 books and over 120 papers, and I hold 15 patents and have 30 active patent applications. 
 
-I am passionate about promoting best practice in data science and believe that in the UK the RSS is the ideal professional body to pursue this goal. For me, Real World Data Science is an opportunity to share my experience and inspire a new generation of data scientists.
+I am passionate about promoting best practice in data science and believe that in the UK the RSS is the ideal professional body to pursue this goal. For me, Global Business Services Today is an opportunity to share my experience and inspire a new generation of data scientists.
 
 **Debisree Ray** 
 
@@ -110,7 +110,7 @@ I am  a Data Scientist at U.S. Steel / Big River Steel (acquired by Nippon Steel
 ![](images/Fatemeh.png)
 :::
 
-I am a research officer and data scientist at Health Data Research UK and a fellow of the RSS. My background is in mathematical statistics and health data science, and my research interests span novel analytical and computational methods for statistical inference in panel data and population health. I am supporting the development of the Real World Data Science platform in the context of health with a specific focus on how health data can be harnessed through data linkage and analysis to answer important questions and improve the lives of our population. 
+I am a research officer and data scientist at Health Data Research UK and a fellow of the RSS. My background is in mathematical statistics and health data science, and my research interests span novel analytical and computational methods for statistical inference in panel data and population health. I am supporting the development of the Global Business Services Today platform in the context of health with a specific focus on how health data can be harnessed through data linkage and analysis to answer important questions and improve the lives of our population. 
 
 **Isabel Sassoon**
 
@@ -129,4 +129,4 @@ I have been working, researching, consulting and teaching in the data science sp
 
 ## Past team members
 **Brian Tarran**  
-Brian is the founding editor of Real World Data Science and former head of data science platform for the Royal Statistical Society (RSS). He worked for the RSS from 2014 to 2024, initially as editor of [Significance Magazine](https://www.significancemagazine.com/), a joint publication of the RSS, the American Statistical Association and the Statistical Society of Australia. He launched Real World Data Science in October 2022. He is a former editor of Research-Live.com and was launch editor of Impact magazine, both published by the Market Research Society. 
+Brian is the founding editor of Global Business Services Today and former head of data science platform for the Royal Statistical Society (RSS). He worked for the RSS from 2014 to 2024, initially as editor of [Significance Magazine](https://www.significancemagazine.com/), a joint publication of the RSS, the American Statistical Association and the Statistical Society of Australia. He launched Global Business Services Today in October 2022. He is a former editor of Research-Live.com and was launch editor of Impact magazine, both published by the Market Research Society. 

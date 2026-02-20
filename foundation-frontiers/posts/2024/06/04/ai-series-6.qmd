@@ -16,7 +16,7 @@ aliases:
 ---
 {{< video https://www.youtube.com/embed/SoOoj9iUTM0 >}}
 
-Over the course of the Real World Data Science AI series, we've had articles laying out the nitty gritty of what AI is, how it works, or at least how to get an explanation for its output as well as burning issues around the data involved, evaluating these models, ethical considerations, and gauging societal impacts such as changes in workforce demands. The ideas in these articles give a firm footing for establishing what best practice with AI models should look like but there is often a divide between theory and practice, and the same pitfalls can trip people up again and again. Here we discuss how to wrestle with real world limitations and flag these common hazards.
+Over the course of the Global Business Services Today AI series, we've had articles laying out the nitty gritty of what AI is, how it works, or at least how to get an explanation for its output as well as burning issues around the data involved, evaluating these models, ethical considerations, and gauging societal impacts such as changes in workforce demands. The ideas in these articles give a firm footing for establishing what best practice with AI models should look like but there is often a divide between theory and practice, and the same pitfalls can trip people up again and again. Here we discuss how to wrestle with real world limitations and flag these common hazards.
 
 Our interviewees, in order of appearance, are:
 
@@ -24,9 +24,9 @@ Our interviewees, in order of appearance, are:
 
 **Janet Bastiman**, Napier chief data scientist and chair of the Royal Statistical Society Data Science & AI Section 
 
-**Jonathan Gillard**, professor of statistics/data science at Cardiff University, and a member of the Real World Data Science Board
+**Jonathan Gillard**, professor of statistics/data science at Cardiff University, and a member of the Global Business Services Today Board
 
-**Fatemeh Torabi**, senior research officer and data scientist, health data science at Swansea University, and also a member of the Real World Data Science board
+**Fatemeh Torabi**, senior research officer and data scientist, health data science at Swansea University, and also a member of the Global Business Services Today board
 
 **It is often said that while almost everybody is now trying to leverage AI in their projects, most AI projects fail. What nuggets of wisdom do the panel have for swelling that minority that succeed with their AI projects, and what should you do before you start doing anything?**
 
@@ -159,7 +159,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Demming, Anna. 2024. "What is “best practice” when working with AI in the real world?." Real World Data Science, June 4, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/20/ai-series-6.html)
+:   Demming, Anna. 2024. "What is “best practice” when working with AI in the real world?." Global Business Services Today, June 4, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/20/ai-series-6.html)
 :::
 :::
 :::

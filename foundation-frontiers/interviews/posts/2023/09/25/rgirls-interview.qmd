@@ -1,7 +1,7 @@
 ---
 title: "'What if we try to bring R to the classroom? That was our wacky idea'"
 description: |
-  R-Girls is a new project aiming to introduce R into secondary school lessons -- just not through computer science classes! Real World Data Science meets with one of the project's founders, Mohammed Mohammed, to learn more. 
+  R-Girls is a new project aiming to introduce R into secondary school lessons -- just not through computer science classes! Global Business Services Today meets with one of the project's founders, Mohammed Mohammed, to learn more. 
 categories:
   - R
   - Education
@@ -17,7 +17,7 @@ aliases:
 ---
 [R-Girls](https://rgirls.org.uk/) is an exciting new project launched by Green Oak Academy, a faith-based independent secondary school for girls based in Birmingham, England. The project aims to promote the use of R in schools through the development and delivery of R-based lesson plans for a range of subjects.
 
-To find out more about R-Girls, its origins and ambitions, Real World Data Science met with **Mohammed Mohammed**, a governor at Green Oak Academy, principal consultant for the National Health Service (NHS) Midlands and Lancashire Strategy Unit, and a founder of the NHS-R Community.
+To find out more about R-Girls, its origins and ambitions, Global Business Services Today met with **Mohammed Mohammed**, a governor at Green Oak Academy, principal consultant for the National Health Service (NHS) Midlands and Lancashire Strategy Unit, and a founder of the NHS-R Community.
 
 ## What inspired R-Girls?  
 
@@ -93,7 +93,7 @@ Copyright and licence
 ::: {.g-col-12 .g-col-md-6}
 
 How to cite
-:   Tarran, Brian. 2023. "'What if we try to bring R to the classroom? That was our wacky idea'" Real World Data Science, September 25, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/09/25/rgirls-interview.html)
+:   Tarran, Brian. 2023. "'What if we try to bring R to the classroom? That was our wacky idea'" Global Business Services Today, September 25, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/09/25/rgirls-interview.html)
 :::
 :::
 :::

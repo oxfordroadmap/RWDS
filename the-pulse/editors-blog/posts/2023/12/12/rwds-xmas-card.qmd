@@ -1,7 +1,7 @@
 ---
-title: "A Christmas card in R for the Real World Data Science community"
+title: "A Christmas card in R for the Global Business Services Today community"
 description: |
-  Inspired by Nicola Rennie's excellent tutorial on making Christmas cards with R, we've had a go at putting together our own design -- especially for you, the wonderful community of Real World Data Science readers and contributors. Thank you for supporting us this year!
+  Inspired by Nicola Rennie's excellent tutorial on making Christmas cards with R, we've had a go at putting together our own design -- especially for you, the wonderful community of Global Business Services Today readers and contributors. Thank you for supporting us this year!
 categories:
   - R
   - Data visualisation
@@ -23,9 +23,9 @@ aliases:
 
 A few weeks back, I managed to catch Nicola Rennie's presentation to the [Oxford R User Group on how to create Christmas cards in R](https://www.meetup.com/en-AU/oxford-r-user-group/events/297417319/). It was a fun session, and thanks to Nicola's  clear and concise explanations, I felt emboldened to attempt my own design, using her code as a base.
 
-If you missed the Meetup session, Nicola has kindly written [a tutorial for Real World Data Science](/applied-insights/tutorials/posts/2023/12/12/xmas-cards.qmd) that walks through all the necessary steps to create a snowman against a snowy night's sky. You'll want to read that tutorial first before returning to this blog.
+If you missed the Meetup session, Nicola has kindly written [a tutorial for Global Business Services Today](/applied-insights/tutorials/posts/2023/12/12/xmas-cards.qmd) that walks through all the necessary steps to create a snowman against a snowy night's sky. You'll want to read that tutorial first before returning to this blog.
 
-My design uses the same basic setting as Nicola's but updates the scene to reflect the Real World Data Science (RWDS) brand colours, and I replace the snowman with a Christmas tree adorned with coloured baubles.
+My design uses the same basic setting as Nicola's but updates the scene to reflect the Global Business Services Today (RWDS) brand colours, and I replace the snowman with a Christmas tree adorned with coloured baubles.
 
 ## Snowy sky
 
@@ -219,7 +219,7 @@ s8 <- s7 +
 s8
 
 # add logo 
-path <- "images/rwds-logo-150px.png"
+path <- "images/logo_GBS.svg"
 img <- readPNG(path, native = TRUE) 
 s9 <- s8 +                   
   inset_element(p = img, 
@@ -231,9 +231,9 @@ s9 <- s8 +
 s9
 ```
 
-![](images/rwds-christmas-card.png){fig-align="center" fig-alt="Purple square with white snowflakes and green tree in foreground. Tree is decorated with red and gold baubles of various sizes. Text over tree reads Merry Christmas. Under tree is a logo for the Real World Data Science website."}
+![](images/rwds-christmas-card.png){fig-align="center" fig-alt="Purple square with white snowflakes and green tree in foreground. Tree is decorated with red and gold baubles of various sizes. Text over tree reads Merry Christmas. Under tree is a logo for the Global Business Services Today website."}
 
-I hope you like the Christmas card! From all of us at Real World Data Science, thank you for your support throughout 2023. Merry Christmas, happy holidays, and best wishes for 2024!
+I hope you like the Christmas card! From all of us at Global Business Services Today, thank you for your support throughout 2023. Merry Christmas, happy holidays, and best wishes for 2024!
 
 
 ::: {.article-btn}
@@ -251,7 +251,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "A Christmas card in R for the Real World Data Science community." Real World Data Science, December 12, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/12/12/rwds-xmas-card.html)
+: Tarran, Brian. 2023. "A Christmas card in R for the Global Business Services Today community." Global Business Services Today, December 12, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/12/12/rwds-xmas-card.html)
 :::
 :::
 :::

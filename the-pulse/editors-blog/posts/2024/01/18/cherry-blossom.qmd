@@ -1,7 +1,7 @@
 ---
 title: "When will the cherry trees bloom? Get ready to make and share your predictions!"
 description: |
-  The 2024 International Cherry Blossom Prediction Competition will open for entries on February 1. There's cash and prizes on offer for the best entries, including having your work featured on Real World Data Science. 
+  The 2024 International Cherry Blossom Prediction Competition will open for entries on February 1. There's cash and prizes on offer for the best entries, including having your work featured on Global Business Services Today. 
 categories:
   - Coding
   - Prediction
@@ -16,7 +16,7 @@ aliases:
   - /viewpoints/editors-blog/posts/2024/01/18/cherry-blossom.html
 ---
 
-The [2024 International Cherry Blossom Prediction Competition](https://competition.statistics.gmu.edu/) will open for entries on February 1, and Real World Data Science is once again proud to be a sponsor.
+The [2024 International Cherry Blossom Prediction Competition](https://competition.statistics.gmu.edu/) will open for entries on February 1, and Global Business Services Today is once again proud to be a sponsor.
 
 Contestants are invited to submit predictions for the date cherry trees will bloom in 2024 at five different locations -- Kyoto, Japan; Liestal-Weideli, Switzerland; Vancouver, Canada; and Washington, DC and New York City, USA.
 
@@ -26,7 +26,7 @@ The competition organisers will provide all the publicly available data they can
 
 So that organisers can reproduce the predictions, entrants must submit all data and code in a [Quarto document](https://quarto.org/).
 
-There's cash and prizes on offer for the best entries, including having your work featured on Real World Data Science. [Head on over to the competition website for full details and rules](https://competition.statistics.gmu.edu/).
+There's cash and prizes on offer for the best entries, including having your work featured on Global Business Services Today. [Head on over to the competition website for full details and rules](https://competition.statistics.gmu.edu/).
 
 And, if you are looking for some inspiration, check out this [tutorial on the law of the flowering plants](https://realworlddatascience.net/applied-insights/tutorials/posts/2023/04/13/flowers.html), written by Jonathan Auerbach, a co-organiser of the prediction competition.
 
@@ -47,7 +47,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2024. "When will the cherry trees bloom? Get ready to make and share your predictions!" Real World Data Science, January 18, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/01/18/cherry-blossom.html)
+: Tarran, Brian. 2024. "When will the cherry trees bloom? Get ready to make and share your predictions!" Global Business Services Today, January 18, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/01/18/cherry-blossom.html)
 :::
 :::
 :::

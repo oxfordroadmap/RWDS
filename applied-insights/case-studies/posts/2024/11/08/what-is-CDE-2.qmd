@@ -300,7 +300,7 @@ Copyright and licence
 
 How to cite
 
-:   Keller S, Shipp S, Lancaster V, Salvo J (2024). "Advancing Data Science in Official Statistics – What is the Curated Data Enterprise?" Real World Data Science, November 8, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/08/what-is-CDE-2.html)
+:   Keller S, Shipp S, Lancaster V, Salvo J (2024). "Advancing Data Science in Official Statistics – What is the Curated Data Enterprise?" Global Business Services Today, November 8, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/08/what-is-CDE-2.html)
 :::
 :::
 :::

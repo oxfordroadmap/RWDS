@@ -211,7 +211,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Linacre, Robin. 2023. "Deduplicating and linking large datasets using Splink." Real World Data Science, November 22, 2023. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2023/11/22/splink.html)
+: Linacre, Robin. 2023. "Deduplicating and linking large datasets using Splink." Global Business Services Today, November 22, 2023. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2023/11/22/splink.html)
 :::
 :::
 :::

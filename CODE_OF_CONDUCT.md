@@ -7,7 +7,7 @@ title-block-banner: true
 ---
 ## Our pledge
 
-We as members, contributors, and leaders of Real World Data Science (RWDS) pledge to make 
+We as members, contributors, and leaders of Global Business Services Today (RWDS) pledge to make 
 participation in our community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,

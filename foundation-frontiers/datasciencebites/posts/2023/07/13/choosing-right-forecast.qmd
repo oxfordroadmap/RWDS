@@ -64,7 +64,7 @@ This post is republished with permission from [MathStatBites](https://mathstatbi
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: King, Brian. 2023. "Choosing the right forecast." Real World Data Science, July 13, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/datasciencebites/posts/2023/07/13/choosing-right-forecast.html)
+: King, Brian. 2023. "Choosing the right forecast." Global Business Services Today, July 13, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/datasciencebites/posts/2023/07/13/choosing-right-forecast.html)
 :::
 :::
 :::

@@ -10,20 +10,20 @@ author: Brian Tarran
 date: 12/09/2022
 toc: true
 image: images/chatgpt1.png
-image-alt: A screenshot of an exchange between Real World Data Science editor Brian Tarran and ChatGPT.
+image-alt: A screenshot of an exchange between Global Business Services Today editor Brian Tarran and ChatGPT.
 aliases: 
   - /news-and-views/editors-blog/posts/2022-12-09-LLM-news/A-chat-with-ChatGPT.html
   - /viewpoints/editors-blog/posts/2022/12/09/A-chat-with-ChatGPT.html
 ---
 ::: {.column-margin}
 ##### Screenshots
-[![Part 1](images/chatgpt1.png){fig-alt="A screenshot of an exchange between Real World Data Science editor Brian Tarran and ChatGPT."}](images/chatgpt1.png)
+[![Part 1](images/chatgpt1.png){fig-alt="A screenshot of an exchange between Global Business Services Today editor Brian Tarran and ChatGPT."}](images/chatgpt1.png)
 
-[![Part 2](images/chatgpt2.png){fig-alt="A screenshot of an exchange between Real World Data Science editor Brian Tarran and ChatGPT."}](images/chatgpt2.png)
+[![Part 2](images/chatgpt2.png){fig-alt="A screenshot of an exchange between Global Business Services Today editor Brian Tarran and ChatGPT."}](images/chatgpt2.png)
 
-[![Part 3](images/chatgpt3.png){fig-alt="A screenshot of an exchange between Real World Data Science editor Brian Tarran and ChatGPT."}](images/chatgpt3.png)
+[![Part 3](images/chatgpt3.png){fig-alt="A screenshot of an exchange between Global Business Services Today editor Brian Tarran and ChatGPT."}](images/chatgpt3.png)
 
-[![Part 4](images/chatgpt4.png){fig-alt="A screenshot of an exchange between Real World Data Science editor Brian Tarran and ChatGPT."}](images/chatgpt4.png)
+[![Part 4](images/chatgpt4.png){fig-alt="A screenshot of an exchange between Global Business Services Today editor Brian Tarran and ChatGPT."}](images/chatgpt4.png)
 :::
 
 **Good day, ChatGPT. How are you?**
@@ -101,7 +101,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2022. "A chat with ChatGPT." Real World Data Science, December, 9 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-09-LLM-news/A-chat-with-ChatGPT.html)
+: Tarran, Brian. 2022. "A chat with ChatGPT." Global Business Services Today, December, 9 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-09-LLM-news/A-chat-with-ChatGPT.html)
 :::
 :::
 :::

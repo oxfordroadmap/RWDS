@@ -135,7 +135,7 @@ Thumbnail image by <a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Setiawan, Maxine and Mira Pijselman. 2023. “Trusted AI: translating AI ethics from theory into practice.” Real World Data Science, July 3, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2023/07/03/trusted-AI.html)
+: Setiawan, Maxine and Mira Pijselman. 2023. “Trusted AI: translating AI ethics from theory into practice.” Global Business Services Today, July 3, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2023/07/03/trusted-AI.html)
 :::
 :::
 :::

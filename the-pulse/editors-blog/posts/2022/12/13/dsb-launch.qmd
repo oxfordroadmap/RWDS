@@ -15,7 +15,7 @@ aliases:
   - /news-and-views/editors-blog/posts/2022-12-13-dsb-launch/dsb-launch.html
   - /viewpoints/editors-blog/posts/2022/12/13/dsb-launch.html
 ---
-I’m absolutely thrilled today to announce the launch of our new blog, [DataScienceBites](/foundation-frontiers/datasciencebites/index.qmd). The blog is not only a new addition to Real World Data Science, but also the latest proud member of the ScienceBites family of sites. 
+I’m absolutely thrilled today to announce the launch of our new blog, [DataScienceBites](/foundation-frontiers/datasciencebites/index.qmd). The blog is not only a new addition to Global Business Services Today, but also the latest proud member of the ScienceBites family of sites. 
 
 [ScienceBites sites](https://sciencebites.org/sciencebites-sites-galaxy/) all share the same [concept](https://sciencebites.org/about/): we publish “short digestible *bites posts* about individual research papers” in an effort to make cutting-edge science accessible to a wide audience, and our posts are written by graduate students and early career researchers. 
 
@@ -46,7 +46,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2022. "Sink your teeth into some data science papers with our brand new blog." Real World Data Science, December, 13 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-13-dsb-launch/dsb-launch.html)
+: Tarran, Brian. 2022. "Sink your teeth into some data science papers with our brand new blog." Global Business Services Today, December, 13 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-13-dsb-launch/dsb-launch.html)
 :::
 :::
 :::

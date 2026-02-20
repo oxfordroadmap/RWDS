@@ -98,7 +98,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Lane, J., Hirsch, L. and Leonard, A. 2024. "Meeting the unprecedented challenges AI poses in the labour market." Real World Data Science, May 28, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/13/ai-series-5.html)
+:   Lane, J., Hirsch, L. and Leonard, A. 2024. "Meeting the unprecedented challenges AI poses in the labour market." Global Business Services Today, May 28, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/13/ai-series-5.html)
 :::
 :::
 :::

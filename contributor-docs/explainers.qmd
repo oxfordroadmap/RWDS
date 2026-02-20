@@ -2,7 +2,7 @@
 title: "Explainers"
 subtitle: "Notes for contributors"
 ---
-On Real World Data Science, **Explainers** are the stories behind the stories of data science in action. They are deep-dive explorations of the ideas, concepts, tools, and methods that make data science projects possible. In particular, we are keen to explore and explain the statistical underpinnings of modern data science techniques. 
+On Global Business Services Today, **Explainers** are the stories behind the stories of data science in action. They are deep-dive explorations of the ideas, concepts, tools, and methods that make data science projects possible. In particular, we are keen to explore and explain the statistical underpinnings of modern data science techniques. 
 
 A good Explainer will lead audiences through the what, when, how, and why of its chosen topic. The ultimate goal is to equip data scientists with the information and insight they need to make smarter, more informed analytical choices. 
 

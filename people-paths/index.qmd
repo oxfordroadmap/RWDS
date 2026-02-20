@@ -1,5 +1,5 @@
 ---
-pagetitle: People & Paths | Real World Data Science
+pagetitle: People & Paths | Global Business Services Today
 title: People & Paths
 subtitle: "Strategic reflections on careers, leadership and professional evolution in data science. 
 In this section: [Career profiles](career-profiles/index.qmd)"
@@ -20,4 +20,4 @@ listing:
 aliases: 
   - /careers/
 ---
-Our People & Paths content is in development. Interested in contributing to Real World Data Science? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd). 
+Our People & Paths content is in development. Interested in contributing to Global Business Services Today? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd). 

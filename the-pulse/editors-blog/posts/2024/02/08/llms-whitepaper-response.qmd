@@ -84,7 +84,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2024. "£10m for UK regulators to 'jumpstart' AI capabilities, as government commits to white paper approach." Real World Data Science, February 8, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/02/08/llms-whitepaper-response.html)
+: Tarran, Brian. 2024. "£10m for UK regulators to 'jumpstart' AI capabilities, as government commits to white paper approach." Global Business Services Today, February 8, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/02/08/llms-whitepaper-response.html)
 :::
 :::
 :::

@@ -16,7 +16,7 @@ aliases:
   - /careers/career-profiles/posts/2023/04/24/sami-rahman.html
 ---
 
-**Hi, Sami. Thank you for sharing your career story with Real World Data Science. Please tell us a little about yourself and your role in data science.**  
+**Hi, Sami. Thank you for sharing your career story with Global Business Services Today. Please tell us a little about yourself and your role in data science.**  
 Hello! I'm Sami Rahman, a passionate head of data engineering and data platform at Penguin Random House, the book publisher that has enriched lives through literature. I started my career in data science five years ago and I've evolved into a data generalist with expertise in machine learning, data infrastructure, and data strategy.
 
 **What does your job involve?**  
@@ -96,7 +96,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'I always thought someone like me couldn't work in data, let alone data science.'" Real World Data Science, April 24, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/04/24/sami-rahman.html)
+: Tarran, Brian. 2023. "'I always thought someone like me couldn't work in data, let alone data science.'" Global Business Services Today, April 24, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/04/24/sami-rahman.html)
 :::
 :::
 :::

@@ -13,10 +13,10 @@ image-alt: A neon sign saying "Open"
 
 ---
 
-Get ready to engage with Real World Data Science as we unveil an exciting editorial refresh! We're thrilled to announce that submissions are now open across our four dynamic sections: The Pulse, Applied Insights, Foundations & Frontiers, and People & Pathways. Join us as we redefine the conversation in data science with fresh perspectives and insights.
-Real World Data Science is relaunching to meet the pace and complexity of today's data-driven world in real time, with the RSS's trademark steadying presence. We will be publishing high-quality case-studies, tutorials and think-pieces that bridge the gap between rigorous analysis and real-time relevance, and that speak directly to latest events and emerging trends. 
+Get ready to engage with Global Business Services Today as we unveil an exciting editorial refresh! We're thrilled to announce that submissions are now open across our four dynamic sections: The Pulse, Applied Insights, Foundations & Frontiers, and People & Pathways. Join us as we redefine the conversation in data science with fresh perspectives and insights.
+Global Business Services Today is relaunching to meet the pace and complexity of today's data-driven world in real time, with the RSS's trademark steadying presence. We will be publishing high-quality case-studies, tutorials and think-pieces that bridge the gap between rigorous analysis and real-time relevance, and that speak directly to latest events and emerging trends. 
 
-All submissions will be peer-reviewed by members of the Real World Data Science [Editorial Board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
+All submissions will be peer-reviewed by members of the Global Business Services Today [Editorial Board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
 
 ## Our Audience:  
 People working in data science looking for practical insights, methodological rigour and thought-leadership that informs their work and decision-making. 
@@ -25,7 +25,7 @@ People working in data science looking for practical insights, methodological ri
 Authoritative, Trustworthy, Cutting Edge 
 
 ## Our Editorial Sections:  
-Real World Data Science has four editorial sections. Please read through and consider where your piece would fit best. Each piece we publish needs to be tailored towards the focus of one of these sections.  
+Global Business Services Today has four editorial sections. Please read through and consider where your piece would fit best. Each piece we publish needs to be tailored towards the focus of one of these sections.  
 
 [THE PULSE](https://realworlddatascience.net/the-pulse/)
 
@@ -97,7 +97,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Real World Data Science Editorial Board. 2025. "Call for Submissions" Real World Data Science, July 7, 2025. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2025/07/07/relaunch-CFS.html)
+: Global Business Services Today Editorial Board. 2025. "Call for Submissions" Global Business Services Today, July 7, 2025. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2025/07/07/relaunch-CFS.html)
 :::
 :::
 :::

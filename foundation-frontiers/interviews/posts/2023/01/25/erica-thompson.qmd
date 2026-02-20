@@ -1,7 +1,7 @@
 ---
 title: "How to 'Escape from Model Land': an interview with Erica Thompson"
 description: |
-   Author Erica Thompson talks to Real World Data Science about the 'social element' of mathematical modelling, how it manifests, and what to do about it.
+   Author Erica Thompson talks to Global Business Services Today about the 'social element' of mathematical modelling, how it manifests, and what to do about it.
 categories:
   - Modelling
   - Ethics
@@ -19,7 +19,7 @@ aliases:
 ---
 Erica Thompson’s new book, [*Escape from Model Land*](http://www.ericathompson.co.uk/books/), offers a fascinating and important perspective on mathematical models as being not just models of the real world, or real processes or systems, but also “subjective versions of reality” that encode all sorts of assumptions and value judgements. 
 
-In this interview with Brian Tarran, editor of Real World Data Science, Thompson talks about the “social element of modelling” and how it manifests, how to counter the subjectivity of individual models with a diversity of models, and whether human-made models are held to the same standards of transparency that are expected of AI-“created” models.
+In this interview with Brian Tarran, editor of Global Business Services Today, Thompson talks about the “social element of modelling” and how it manifests, how to counter the subjectivity of individual models with a diversity of models, and whether human-made models are held to the same standards of transparency that are expected of AI-“created” models.
 
 Erica Thompson is a senior policy fellow in the ethics of modelling and simulation at the London School of Economics Data Science Institute.
 
@@ -51,7 +51,7 @@ This transcript has been produced using speech-to-text transcription software. I
 :::
 
 **Brian Tarran**  
-Hello, and welcome to the very first instalment of the Real World Data Science interview series. I'm Brian Tarran, the editor of Real World Data Science, and I'm very pleased to be joined today by Erica Thompson, a senior policy fellow in ethics of modelling and simulation at the London School of Economics Data Science Institute, and the author of a fantastic new book - which I have a copy of here - Escape from Model Land, which is subtitled, How mathematical models can lead us astray and what we can do about it. So hello, Erica, thank you for joining us. I hope 2023 got off to a positive start for you. 
+Hello, and welcome to the very first instalment of the Global Business Services Today interview series. I'm Brian Tarran, the editor of Global Business Services Today, and I'm very pleased to be joined today by Erica Thompson, a senior policy fellow in ethics of modelling and simulation at the London School of Economics Data Science Institute, and the author of a fantastic new book - which I have a copy of here - Escape from Model Land, which is subtitled, How mathematical models can lead us astray and what we can do about it. So hello, Erica, thank you for joining us. I hope 2023 got off to a positive start for you. 
 
 **Erica Thompson**  
 Yes, it has so far. 
@@ -162,7 +162,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "How to ‘Escape from Model Land’: an interview with Erica Thompson." Real World Data Science, January 25, 2023. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10527419.svg){style="vertical-align:text-bottom;"}](https://doi.org/10.5281/zenodo.10527419)
+: Tarran, Brian. 2023. "How to ‘Escape from Model Land’: an interview with Erica Thompson." Global Business Services Today, January 25, 2023. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10527419.svg){style="vertical-align:text-bottom;"}](https://doi.org/10.5281/zenodo.10527419)
 
 :::
 :::

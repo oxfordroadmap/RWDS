@@ -101,7 +101,7 @@ Seen from this angle, the 95 percent figure is not a verdict on AI technology bu
 
 Much commentary on AI spends its energy on model choice, technical detail and tooling. This article has argued that the more important work is organisational: deciding which decisions to improve, agreeing what counts as acceptable evidence, and creating cross-functional teams that can live with the consequences. The few organisations that succeed treat AI as an experiment in decision making rather than a procurement exercise. They expect the stack to change and the vendors to turn over, but they hold fast to the team, the questions and the discipline.
 
-For Real World Data Science readers, the implication is direct. AI projects fail when nobody owns the estimand, the counterfactual and the error bars. AI doesn’t need to be perfect, but it needs to be good enough. As the statistician George E. P. Box famously observed: “All models are wrong, but some are useful”. Usefulness here depends on design, discipline and humility as much as model choice. Statisticians, data scientists and methodologists can reclaim the narrative by insisting not only that every AI project begins with a clear question, a credible experiment and a plan to learn, but also that these are held collectively by an integrated team with visible executive backing. That is how more organisations move into the 5 percent.
+For Global Business Services Today readers, the implication is direct. AI projects fail when nobody owns the estimand, the counterfactual and the error bars. AI doesn’t need to be perfect, but it needs to be good enough. As the statistician George E. P. Box famously observed: “All models are wrong, but some are useful”. Usefulness here depends on design, discipline and humility as much as model choice. Statisticians, data scientists and methodologists can reclaim the narrative by insisting not only that every AI project begins with a clear question, a credible experiment and a plan to learn, but also that these are held collectively by an integrated team with visible executive backing. That is how more organisations move into the 5 percent.
 
 
 ::: {.article-btn}
@@ -113,7 +113,7 @@ For Real World Data Science readers, the implication is direct. AI projects fail
 
 ::: {.g-col-12 .g-col-md-12}
 About the author:
-: [Lee Clewley (PhD)](https://www.linkedin.com/in/lee-clewley-988bbb18/) is VP of Applied AI & Informatics at [Tangram Therapeutics](https://tangramtx.com/), where he led the design and deployment of LLibra, a multi-LLM, agentic system for early discovery. Formerly Head of Applied AI at [GSK](https://www.gsk.com/en-gb/), he is a member of the Real World Data Science [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
+: [Lee Clewley (PhD)](https://www.linkedin.com/in/lee-clewley-988bbb18/) is VP of Applied AI & Informatics at [Tangram Therapeutics](https://tangramtx.com/), where he led the design and deployment of LLibra, a multi-LLM, agentic system for early discovery. Formerly Head of Applied AI at [GSK](https://www.gsk.com/en-gb/), he is a member of the Global Business Services Today [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).  
 
 
 ::: {.g-col-12 .g-col-md-6}
@@ -128,7 +128,7 @@ This article is licensed under a Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ::: {.g-col-12 .g-col-md-6}
 **How to cite** :  
-Clewley, Lee. 2026. “**Why 95% Of AI Projects Fail and How to Change the Odds**.” *Real World Data Science*, 2026. [URL](https://realworlddatascience.net/applied-insights/tutorials/posts/2026/12/why-95-percent-of-ai-projects-fail.html)
+Clewley, Lee. 2026. “**Why 95% Of AI Projects Fail and How to Change the Odds**.” *Global Business Services Today*, 2026. [URL](https://realworlddatascience.net/applied-insights/tutorials/posts/2026/12/why-95-percent-of-ai-projects-fail.html)
 :::
 
 :::

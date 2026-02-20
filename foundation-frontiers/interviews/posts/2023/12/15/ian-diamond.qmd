@@ -1,7 +1,7 @@
 ---
 title: "'I was pretty clear in my mind that we were into a no-going-back situation'"
 description: |
-  Real World Data Science interviews UK national statistician Professor Sir Ian Diamond about culture change and innovation in the national statistical system post-Covid, building trust through transparency, and using AI tools to empower people to interrogate data.
+  Global Business Services Today interviews UK national statistician Professor Sir Ian Diamond about culture change and innovation in the national statistical system post-Covid, building trust through transparency, and using AI tools to empower people to interrogate data.
 categories:
   - Data
   - People
@@ -110,7 +110,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'I was pretty clear in my mind that we were into a no-going-back situation.'" Real World Data Science, December 15, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/12/15/ian-diamond.html)
+: Tarran, Brian. 2023. "'I was pretty clear in my mind that we were into a no-going-back situation.'" Global Business Services Today, December 15, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/12/15/ian-diamond.html)
 :::
 :::
 :::

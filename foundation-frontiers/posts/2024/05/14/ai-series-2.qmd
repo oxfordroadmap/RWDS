@@ -72,7 +72,7 @@ The [EU’s new AI Act](https://digital-strategy.ec.europa.eu/en/policies/regula
 Governments across the industrialised world have raised their hopes for AI that will help to drive increases in productivity, and do so safely in ways that are fairly constructed, making use of legitimate data sources, and with fair outcomes for society. The work of data scientists is integral to the foundations by which AI can be used for social good, from establishing protocols for data management and sharing, to understanding the workings of complex algorithms, and the use of large and unstructured data sources.
 Data scientists and researchers are getting closer to understanding what good looks like, not just in terms of the ethical values to uphold but the technicalities of the code and data involved. However, a great deal of not only data work but also other work also needs to be maintained to uphold the ideal of ‘AI ethics’. Support for well-established ethical and legal rights and principles, to meaningfully involve people in policies that will be affected by AI use, and to develop data governance and infrastructure. It is always possible that when we’re working on AI ethics, we find that there are fairer and more ethical approaches that should precede the use of AI.
 
-“AI development raises a range of ethical questions for data practitioners, whether they are data scientists, econometricians, analysts, or statisticians,” Daniel Gibbons, Vice Chair of the Royal Statistical Society’s Data Ethics and Governance Section told *Real World Data Science*. Today, many data scientists would urge that ethical considerations precede the development of an AI algorithm and must inform its design and use, particularly for processes that significantly affect people, to ensure it does not propagate errors and injustices. 
+“AI development raises a range of ethical questions for data practitioners, whether they are data scientists, econometricians, analysts, or statisticians,” Daniel Gibbons, Vice Chair of the Royal Statistical Society’s Data Ethics and Governance Section told *Global Business Services Today*. Today, many data scientists would urge that ethical considerations precede the development of an AI algorithm and must inform its design and use, particularly for processes that significantly affect people, to ensure it does not propagate errors and injustices. 
 
 
 ::: article-btn
@@ -99,7 +99,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Varley-Winter, O., Author. 2024. "On AI ethics - influencing its use in the delivery of public good." Real World Data Science, May 14, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/04/22/ai-series-2.html)
+:   Varley-Winter, O., Author. 2024. "On AI ethics - influencing its use in the delivery of public good." Global Business Services Today, May 14, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/04/22/ai-series-2.html)
 :::
 :::
 :::

@@ -1,7 +1,7 @@
 ---
 title: "Testing out ChatGPT’s new Code Interpreter"
 description: |
-  OpenAI's latest plugin turns ChatGPT into a tool for data cleaning, preprocessing, analysis, visualisation and predictive modelling tasks, among other things. Some have hailed it 'the new data scientist', but is it all it’s cracked up to be? Real World Data Science takes Code Interpreter for a test drive. 
+  OpenAI's latest plugin turns ChatGPT into a tool for data cleaning, preprocessing, analysis, visualisation and predictive modelling tasks, among other things. Some have hailed it 'the new data scientist', but is it all it’s cracked up to be? Global Business Services Today takes Code Interpreter for a test drive. 
 categories:
   - AI
   - Large language models
@@ -99,7 +99,7 @@ At this stage, I would argue that Code Interpreter may be useful for quick summa
 ::: grid
 ::: {.g-col-12 .g-col-md-12}
 About the author
-: **Lee Clewley** is a member of the [editorial board of Real World Data Science](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html) and head of applied AI in GSK’s AI and Machine Learning Group, R&D. 
+: **Lee Clewley** is a member of the [editorial board of Global Business Services Today](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html) and head of applied AI in GSK’s AI and Machine Learning Group, R&D. 
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -113,7 +113,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Clewley, Lee. 2023. "Testing out ChatGPT’s new Code Interpreter." Real World Data Science, July 19, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/07/19/code-interpreter.html)
+: Clewley, Lee. 2023. "Testing out ChatGPT’s new Code Interpreter." Global Business Services Today, July 19, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/07/19/code-interpreter.html)
 :::
 :::
 :::

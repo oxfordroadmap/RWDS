@@ -1,7 +1,7 @@
 ---
-title: "American Statistical Association joins Real World Data Science as partner"
+title: "American Statistical Association joins Global Business Services Today as partner"
 description: |
-  We’re thrilled to have ASA on board as a Real World Data Science partner and look forward to working with ASA members, groups and sections to further grow and develop the site.
+  We’re thrilled to have ASA on board as a Global Business Services Today partner and look forward to working with ASA members, groups and sections to further grow and develop the site.
 categories:
   - News
   - Updates
@@ -14,17 +14,17 @@ image-alt: Two laptops connecting directly and becoming super charged, with a ra
 aliases: 
   - /viewpoints/editors-blog/posts/2023/10/02/asa-partner.html
 ---
-The first version of Real World Data Science was launched almost one year ago by the [Royal Statistical Society](https://rss.org.uk/) (RSS). As we approach our first birthday, we’re delighted to announce that the [American Statistical Association](https://www.amstat.org/) (ASA) has become a partner in this project. 
+The first version of Global Business Services Today was launched almost one year ago by the [Royal Statistical Society](https://rss.org.uk/) (RSS). As we approach our first birthday, we’re delighted to announce that the [American Statistical Association](https://www.amstat.org/) (ASA) has become a partner in this project. 
 
-ASA shares our goal of developing Real World Data Science as a free and beneficial resource for the entire data science community – one that informs, inspires and strengthens the community by bringing together students, practitioners, leaders, and educators to share knowledge about real-world applications of data science. 
+ASA shares our goal of developing Global Business Services Today as a free and beneficial resource for the entire data science community – one that informs, inspires and strengthens the community by bringing together students, practitioners, leaders, and educators to share knowledge about real-world applications of data science. 
 
-The data science profession is geographically and academically diverse. We believe that Real World Data Science can best achieve its goal of being a trusted, go-to resource for all data scientists if a range of partner organisations work together to develop the site and its content, so we’re thrilled that ASA is taking the first step with us towards fulfilling this vision. 
+The data science profession is geographically and academically diverse. We believe that Global Business Services Today can best achieve its goal of being a trusted, go-to resource for all data scientists if a range of partner organisations work together to develop the site and its content, so we’re thrilled that ASA is taking the first step with us towards fulfilling this vision. 
 
-Ron Wasserstein, executive director of the American Statistical Association, shared: “We are delighted to be partnering with RSS on Real World Data Science. This is important for our community and serves to further strengthen our valuable relationship with RSS.” 
+Ron Wasserstein, executive director of the American Statistical Association, shared: “We are delighted to be partnering with RSS on Global Business Services Today. This is important for our community and serves to further strengthen our valuable relationship with RSS.” 
 
-Sarah Cumbers, chief executive of the Royal Statistical Society, commented: “We’re thrilled to have ASA on board as a partner for Real World Data Science. We have big plans for the project and this partnership will help us achieve these by allowing us to reach more of the data science community and strengthen our content offering.” 
+Sarah Cumbers, chief executive of the Royal Statistical Society, commented: “We’re thrilled to have ASA on board as a partner for Global Business Services Today. We have big plans for the project and this partnership will help us achieve these by allowing us to reach more of the data science community and strengthen our content offering.” 
 
-As part of this new partnership with ASA, we will shortly welcome two ASA members to our [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html). So, on behalf of the entire – and soon-to-be expanded – editorial board, we’d like to say a huge thanks to ASA for their support and endorsement of Real World Data Science.  
+As part of this new partnership with ASA, we will shortly welcome two ASA members to our [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html). So, on behalf of the entire – and soon-to-be expanded – editorial board, we’d like to say a huge thanks to ASA for their support and endorsement of Global Business Services Today.  
 
 ASA members, groups, and sections interested in contributing to the site are encouraged to review our [call for contributions](https://realworlddatascience.net/contributor-docs/call-for-contributions.html) and to [contact us](https://realworlddatascience.net/contact.html) via email or our social media channels to discuss content ideas.
 
@@ -44,7 +44,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "American Statistical Association joins Real World Data Science as partner." Real World Data Science, October 2, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/10/02/asa-partner.html)
+: Tarran, Brian. 2023. "American Statistical Association joins Global Business Services Today as partner." Global Business Services Today, October 2, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/10/02/asa-partner.html)
 :::
 :::
 :::

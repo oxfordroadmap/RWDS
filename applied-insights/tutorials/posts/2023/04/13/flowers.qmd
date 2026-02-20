@@ -2151,7 +2151,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Auerbach, Jonathan. 2023. "A demonstration of the law of the flowering plants." Real World Data Science, April 13, 2023. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10528535.svg){style="vertical-align:text-bottom;"}](https://doi.org/10.5281/zenodo.10528535)
+: Auerbach, Jonathan. 2023. "A demonstration of the law of the flowering plants." Global Business Services Today, April 13, 2023. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10528535.svg){style="vertical-align:text-bottom;"}](https://doi.org/10.5281/zenodo.10528535)
 
 :::
 :::

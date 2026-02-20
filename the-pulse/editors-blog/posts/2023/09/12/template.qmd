@@ -1,5 +1,5 @@
 ---
-title: "Contributors: check out the new Real World Data Science template repo on GitHub"
+title: "Contributors: check out the new Global Business Services Today template repo on GitHub"
 description: |
   The 'RWDS_post_template' repository, created by Finn-Ole Höner, demonstrates various Quarto features and helps site contributors to create content using our house style and format.     
 categories:
@@ -14,15 +14,15 @@ image-alt: A small figurine of an oktokata in the center, in the background a la
 aliases: 
   - /viewpoints/editors-blog/posts/2023/09/12/template.html
 ---
-Thinking of contributing to Real World Data Science but not sure how to get started? Help is at hand, thanks to [Finn-Ole Höner](https://github.com/finnoh). The Amsterdam-based business data science student has created [a template repository on GitHub](https://github.com/finnoh/RWDS_post_template) that allows anyone to create Real World Data Science content in our house style and format.
+Thinking of contributing to Global Business Services Today but not sure how to get started? Help is at hand, thanks to [Finn-Ole Höner](https://github.com/finnoh). The Amsterdam-based business data science student has created [a template repository on GitHub](https://github.com/finnoh/RWDS_post_template) that allows anyone to create Global Business Services Today content in our house style and format.
 
 In this repository you'll find two example Quarto (.qmd) documents, which is the main file type we use for generating site content. The "content-brief.qmd" file is a template for developing article ideas to discuss with our site editors, and the "report.qmd" file is a standard article template. Within that article template you'll find examples of the range of Quarto features that we use, as well as the code you need to make use of them yourself.
 
-These documents can be edited using tools including Visual Studio Code and R Studio. For details on how to work with Quarto documents, see the [Quarto website](https://quarto.org/). Once article drafts are finished they can be rendered into HTML format, and the output files will be displayed in the Real World Data Science style, thanks to the inclusion of our stylesheets in the template repository. This is a great way for contributors to see what their content will look like on Real World Data Science before anything is published.
+These documents can be edited using tools including Visual Studio Code and R Studio. For details on how to work with Quarto documents, see the [Quarto website](https://quarto.org/). Once article drafts are finished they can be rendered into HTML format, and the output files will be displayed in the Global Business Services Today style, thanks to the inclusion of our stylesheets in the template repository. This is a great way for contributors to see what their content will look like on Global Business Services Today before anything is published.
 
 To get started, head on over to the [RWDS_post_template repository](https://github.com/finnoh/RWDS_post_template) and click the "Use this template" button. Also, be sure to [review our contributor guidelines](https://realworlddatascience.net/contributor-docs/contributor-guidelines.html) for advice on how to integrate the .qmd templates into the content development and submission workflow.
 
-Huge thanks to Finn-Ole Höner for building this valuable resource for Real World Data Science contributors. 
+Huge thanks to Finn-Ole Höner for building this valuable resource for Global Business Services Today contributors. 
 
 ::: {.article-btn}
 [Back to Editors' blog](/the-pulse/editors-blog/index.qmd)
@@ -40,7 +40,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Contributors: check out the new Real World Data Science template repository on GitHub." Real World Data Science, September 12, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/09/12/template.html)
+: Tarran, Brian. 2023. "Contributors: check out the new Global Business Services Today template repository on GitHub." Global Business Services Today, September 12, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/09/12/template.html)
 :::
 :::
 :::

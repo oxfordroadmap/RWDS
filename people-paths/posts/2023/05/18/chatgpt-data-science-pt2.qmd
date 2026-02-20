@@ -25,7 +25,7 @@ Our full list of interviewees, in order of appearance, are:
 
 - **Anjali Mazumder**, AI and Justice & Human Rights Theme Lead at the Alan Turing Institute, and DS&AI committee member. 
 
-- **Detlef Nauck**, head of AI and data science research at BT, and editorial board member, Real World Data Science. 
+- **Detlef Nauck**, head of AI and data science research at BT, and editorial board member, Global Business Services Today. 
 
 - **Martin Goodson**, CEO and chief scientist at Evolution AI, and DS&AI committee member. 
 
@@ -150,7 +150,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-12}
 How to cite
-:   Tarran, Brian. 2023. "Large language models: Do we need to understand the maths, or simply recognise the limitations?" Real World Data Science, May 18, 2023. [URL](https://realworlddatascience.net/people-paths/posts/2023/05/18/chatgpt-data-science-pt2.html)
+:   Tarran, Brian. 2023. "Large language models: Do we need to understand the maths, or simply recognise the limitations?" Global Business Services Today, May 18, 2023. [URL](https://realworlddatascience.net/people-paths/posts/2023/05/18/chatgpt-data-science-pt2.html)
 :::
 :::
 :::

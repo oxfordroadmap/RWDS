@@ -29,7 +29,7 @@ But at a panel debate at the Royal Statistical Society (RSS) the day before the 
 The RSS event was chaired by Andrew Garrett, the Society’s president, and formed part of the national [AI Fringe programme of activities](https://aifringe.org/). The panel featured:
 
 *	Mihaela van der Schaar, John Humphrey Plummer professor of machine learning, artificial intelligence and medicine at the University of Cambridge and a fellow at The Alan Turing Institute.
-*	Detlef Nauck, head of AI and data science research at BT, and a member of the [Real World Data Science editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).
+*	Detlef Nauck, head of AI and data science research at BT, and a member of the [Global Business Services Today editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).
 *	Mark Levene, principal scientist in the Department of Data Science at the National Physical Laboratory.
 *	Martin Goodson, chief executive of Evolution AI, and former chair of the RSS Data Science and AI Section.
 
@@ -211,7 +211,7 @@ Images by <a href="https://cream3d.com/">Wes Cockx</a> & <a href="https://deepmi
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Evaluating artificial intelligence: How data science and statistics can make sense of AI models." Real World Data Science, December 6, 2023. [URL](https://realworlddatascience.net/the-pulse/posts/2023/12/06/ai-fringe.html)
+: Tarran, Brian. 2023. "Evaluating artificial intelligence: How data science and statistics can make sense of AI models." Global Business Services Today, December 6, 2023. [URL](https://realworlddatascience.net/the-pulse/posts/2023/12/06/ai-fringe.html)
 :::
 :::
 :::

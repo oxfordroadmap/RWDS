@@ -6,7 +6,7 @@ toc: true
 title-block-banner: true
 ---
 ## Legal disclaimer
-Statements of fact and opinion published on this website are those of the respective authors and contributors and not necessarily those of Real World Data Science (RWDS), its editors, the Royal Statistical Society (RSS), or other partners and funders. 
+Statements of fact and opinion published on this website are those of the respective authors and contributors and not necessarily those of Global Business Services Today (RWDS), its editors, the Royal Statistical Society (RSS), or other partners and funders. 
 
 RWDS has prepared the content of this website responsibly and carefully. However, RWDS, its editors, the RSS, or other partners and funders disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on this website or on other linked websites or on any subsequent links. This includes, but is not by way of limitation: 
 

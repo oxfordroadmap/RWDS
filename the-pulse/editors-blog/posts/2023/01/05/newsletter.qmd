@@ -14,7 +14,7 @@ aliases:
   - /news-and-views/editors-blog/posts/2023/01/05/newsletter.html
   - /viewpoints/editors-blog/posts/2023/01/05/newsletter.html
 ---
-Happy New Year from all of us at Real World Data Science. We hope you had a relaxing break over the holidays and are now refreshed and excited to see what 2023 has in store. We’re starting the year with a new addition to the site: a page dedicated to the excellent [RSS Data Science & AI Section newsletter](https://realworlddatascience.net/news-and-views/newsletter/). 
+Happy New Year from all of us at Global Business Services Today. We hope you had a relaxing break over the holidays and are now refreshed and excited to see what 2023 has in store. We’re starting the year with a new addition to the site: a page dedicated to the excellent [RSS Data Science & AI Section newsletter](https://realworlddatascience.net/news-and-views/newsletter/). 
 
 This monthly newsletter has been running since February 2020 and is well worth subscribing to as it features roundups of news, new developments, big picture ideas and practical tips.  
 
@@ -37,7 +37,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Explore the RSS Data Science & AI Section newsletter, right here!" Real World Data Science, January, 5 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/01/05/newsletter.html)
+: Tarran, Brian. 2023. "Explore the RSS Data Science & AI Section newsletter, right here!" Global Business Services Today, January, 5 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/01/05/newsletter.html)
 :::
 :::
 :::

@@ -290,7 +290,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Lancaster V, Shipp S, Keller S et al. (2024). "Translating the Curated Data Model into Practice - climate resiliency of skilled nursing facilities" Real World Data Science, November 19, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/19/use-case-2.html)
+: Lancaster V, Shipp S, Keller S et al. (2024). "Translating the Curated Data Model into Practice - climate resiliency of skilled nursing facilities" Global Business Services Today, November 19, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/19/use-case-2.html)
 :::
 :::
 :::

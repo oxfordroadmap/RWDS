@@ -28,7 +28,7 @@ aliases:
 ::: grid
 ::: {.g-col-12 .g-col-md-12}
 About the author
-:   **Jonathan Gillard** is a professor of statistics and data science at Cardiff University and a member of the [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html) of Real World Data Science.
+:   **Jonathan Gillard** is a professor of statistics and data science at Cardiff University and a member of the [editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html) of Global Business Services Today.
 :::
 ::: {.g-col-12 .g-col-md-6}
 Copyright and licence
@@ -39,7 +39,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Gillard, Jonathan. 2024. "Data science and AI in the public sector: An interview with ONS’s Penny Holborn." Real World Data Science, March 27, 2024. [URL](https://realworlddatascience.net/people-paths/posts/2024/03/27/pholborn-interview.html)
+:   Gillard, Jonathan. 2024. "Data science and AI in the public sector: An interview with ONS’s Penny Holborn." Global Business Services Today, March 27, 2024. [URL](https://realworlddatascience.net/people-paths/posts/2024/03/27/pholborn-interview.html)
 :::
 :::
 :::

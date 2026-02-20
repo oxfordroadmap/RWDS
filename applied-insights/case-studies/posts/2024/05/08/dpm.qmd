@@ -164,7 +164,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Shaw, Luke et al 2024. "Forecasting the Health Needs of a Changing Population" Real World Data Science, May 08, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/05/08/dpm.html)
+: Shaw, Luke et al 2024. "Forecasting the Health Needs of a Changing Population" Global Business Services Today, May 08, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/05/08/dpm.html)
 :::
 :::
 :::

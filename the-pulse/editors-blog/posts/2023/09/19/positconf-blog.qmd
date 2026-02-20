@@ -1,5 +1,5 @@
 ---
-title: "Live from Chicago: Real World Data Science at posit::conf(2023)"
+title: "Live from Chicago: Global Business Services Today at posit::conf(2023)"
 description: |
   This year's posit::conf has come to a close, and we had a great time in Chicago learning about data science software, ideas, and applications. Read on for key takeaways from a selection of talks and sessions.
 categories:
@@ -21,7 +21,7 @@ aliases:
 ---
 
 ::: {.callout-note appearance="simple" style="margin-top:0"}
-Videos from posit::conf(2023) are now available on YouTube, including our talk about [how we built Real World Data Science using Quarto](https://www.youtube.com/watch?v=ncDEqHxMWnE&). We've embedded a selection of videos in this blog post, but be sure to [check out the full playlist](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp).
+Videos from posit::conf(2023) are now available on YouTube, including our talk about [how we built Global Business Services Today using Quarto](https://www.youtube.com/watch?v=ncDEqHxMWnE&). We've embedded a selection of videos in this blog post, but be sure to [check out the full playlist](https://www.youtube.com/playlist?list=PL9HYL-VRX0oRFZslRGHwHuwea7SvAATHp).
 :::
 
 ## Tuesday, September 19
@@ -101,7 +101,7 @@ fit = lm(mpg ~ am, data = mtcars)
 summary(fit)
 ```
 
-Visit the [quarto-webr website](https://quarto-webr.thecoatlessprofessor.com/) for details on how to make full use of this capability. Once you're up to speed, why not [contribute a webR-enabled article for Real World Data Science](https://realworlddatascience.net/contributor-docs/contributor-guidelines.html)?
+Visit the [quarto-webr website](https://quarto-webr.thecoatlessprofessor.com/) for details on how to make full use of this capability. Once you're up to speed, why not [contribute a webR-enabled article for Global Business Services Today](https://realworlddatascience.net/contributor-docs/contributor-guidelines.html)?
 
 {{< video "https://www.youtube.com/embed/60i9f861HLg?si=G3MrLisibAHxW6AP" >}}
 
@@ -187,7 +187,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Live from Chicago: Real World Data Science at posit::conf(2023)." Real World Data Science, September 19, 2023, updated September 27, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/09/19/positconf-blog.html)
+: Tarran, Brian. 2023. "Live from Chicago: Global Business Services Today at posit::conf(2023)." Global Business Services Today, September 19, 2023, updated September 27, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/09/19/positconf-blog.html)
 :::
 :::
 :::

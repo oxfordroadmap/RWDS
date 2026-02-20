@@ -29,7 +29,7 @@ And when I asked “Why can too much reliance on large language models hinder re
 
 > “If academic researchers rely too heavily on large language models as research assistants, they may become reliant on the models and may not be able to conduct research without them. This can hinder research because the researchers may not be able to think for themselves and may not be able to come up with new ideas.” 
 
-A fair point, I suppose. But I sense there’s more to this story, and rather than continue quizzing GPT-3, I sat down with Detlef Nauck, a member of the [Real World Data Science Editorial Board](/news-and-views/editors-blog/posts/2022-10-18-meet-the-team/meet-the-team.html) and head of AI and data science research for BT’s Applied Research Division, to ask a few more questions. 
+A fair point, I suppose. But I sense there’s more to this story, and rather than continue quizzing GPT-3, I sat down with Detlef Nauck, a member of the [Global Business Services Today Editorial Board](/news-and-views/editors-blog/posts/2022-10-18-meet-the-team/meet-the-team.html) and head of AI and data science research for BT’s Applied Research Division, to ask a few more questions. 
 
 ## Q&A
 **Thanks for joining me today, Detlef. To start, could you give a brief overview of these large language models, what they are, and how they work?** 
@@ -88,7 +88,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2022. "Why large language models should come with a content warning." Real World Data Science, November, 23 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-11-23-LLMs-content-warning/LLM-content-warning.html)
+: Tarran, Brian. 2022. "Why large language models should come with a content warning." Global Business Services Today, November, 23 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-11-23-LLMs-content-warning/LLM-content-warning.html)
 :::
 :::
 :::

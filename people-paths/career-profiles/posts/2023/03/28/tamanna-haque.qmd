@@ -16,7 +16,7 @@ aliases:
   - /careers/career-profiles/posts/03/28/tamanna-haque.html
   - /careers/career-profiles/posts/2023/03/28/tamanna-haque.html
 ---
-**Hi, Tamanna. Thank you for sharing your career story with Real World Data Science. Please tell us a little about yourself and your role in data science.**   
+**Hi, Tamanna. Thank you for sharing your career story with Global Business Services Today. Please tell us a little about yourself and your role in data science.**   
 I'm Tamanna Haque. I’ve been working at Jaguar Land Rover for nearly four years, recently promoted to lead data scientist working within product engineering. It’s coming up to eight years that I’ve been working in the field, and my areas of interest are the use of machine learning to provide the best products and experiences for my customers and stakeholders.  
 
 **What does your job involve?**  
@@ -107,7 +107,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'Data science challenges you to keep learning -- there’ll always be new advances in the field.'" Real World Data Science, March 28, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/03/28/tamanna-haque.html)
+: Tarran, Brian. 2023. "'Data science challenges you to keep learning -- there’ll always be new advances in the field.'" Global Business Services Today, March 28, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/03/28/tamanna-haque.html)
 :::
 :::
 :::

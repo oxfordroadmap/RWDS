@@ -183,7 +183,7 @@ To make your research open science, you need to:
 
 About the author
 
-:   **Isabel Sassoon** is a senior lecturer in computer science and data science at Brunel University London and a member of the [Real World Data Science editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).
+:   **Isabel Sassoon** is a senior lecturer in computer science and data science at Brunel University London and a member of the [Global Business Services Today editorial board](https://realworlddatascience.net/the-pulse/editors-blog/posts/2022/10/18/meet-the-team.html).
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -200,7 +200,7 @@ Copyright and licence
 
 How to cite
 
-:   Sassoon, Isabel. 2023. "How to 'open science': A brief guide to principles and practices." Real World Data Science, November 6, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2023/11/06/how-to-open-science.html)
+:   Sassoon, Isabel. 2023. "How to 'open science': A brief guide to principles and practices." Global Business Services Today, November 6, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2023/11/06/how-to-open-science.html)
 :::
 :::
 :::

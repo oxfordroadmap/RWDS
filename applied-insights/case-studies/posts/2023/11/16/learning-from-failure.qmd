@@ -323,7 +323,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Wright, Noah. 2023. "Learning from failure: 'Red flags' in body-worn camera data." Real World Data Science, November 16, 2023. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2023/11/16/learning-from-failure.html)
+: Wright, Noah. 2023. "Learning from failure: 'Red flags' in body-worn camera data." Global Business Services Today, November 16, 2023. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2023/11/16/learning-from-failure.html)
 :::
 :::
 :::

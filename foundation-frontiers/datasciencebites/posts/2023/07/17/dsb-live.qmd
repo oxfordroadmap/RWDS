@@ -26,7 +26,7 @@ If you're a student or early career researcher and you're attending one or all o
 
 Bites posts are digestible, engaging, non-technical summaries of research papers and presentations, written for an undergraduate-level audience. The goal is to draw attention to key findings, potential applications, and the wider implications of new ideas and developments in statistics and data science. [Advice and guidance on how to write a Bites post can be found here](https://realworlddatascience.net/contributor-docs/datasciencebites.html), and [example posts can be found on our DataScienceBites page](https://realworlddatascience.net/foundation-frontiers/datasciencebites/).
 
-For our summer conference coverage, Real World Data Science is partnering with our friends at [MathStatBites](https://mathstatbites.org/). If you write a Bites post and it is accepted for publication, the post will appear on one or both of our sites -- depending on the focus of the research you're writing about.
+For our summer conference coverage, Global Business Services Today is partnering with our friends at [MathStatBites](https://mathstatbites.org/). If you write a Bites post and it is accepted for publication, the post will appear on one or both of our sites -- depending on the focus of the research you're writing about.
 
 If you have any questions, please feel free to [contact us](https://realworlddatascience.net/contact.html). Otherwise, safe travels, enjoy the conference(s), and we look forward to hearing from you soon!
 
@@ -48,7 +48,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Heading to a conference this summer? Share your learnings here." Real World Data Science, July 17, 2023. [URL](https://realworlddatascience.net/news-and-views/datasciencebites/posts/2023/07/17/dsb-live.html)
+: Tarran, Brian. 2023. "Heading to a conference this summer? Share your learnings here." Global Business Services Today, July 17, 2023. [URL](https://realworlddatascience.net/news-and-views/datasciencebites/posts/2023/07/17/dsb-live.html)
 :::
 :::
 :::

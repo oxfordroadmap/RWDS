@@ -16,7 +16,7 @@ toc: false
 aliases: 
   - /careers/career-profiles/posts/2023/06/20/chanuki-seresinhe.html
 ---
-**Hi, Chanuki. Thank you for sharing your career story with Real World Data Science. Please tell us a little about yourself and your role in data science.**\
+**Hi, Chanuki. Thank you for sharing your career story with Global Business Services Today. Please tell us a little about yourself and your role in data science.**\
 I am Chanuki Seresinhe, head of data science at Zoopla and Hometrack. My commercial career in data science began in 2018 at Channel 4. Since then, I have worked at a few different companies -- from startups to scale-ups -- before ending up here at Zoopla in 2022.
 
 I am also the founder of [beautifulplaces.ai](https://www.beautifulplaces.ai/), which is a continuation of my University of Warwick and Alan Turing Institute PhD work where I provided the first large-scale evidence that beautiful places are connected to our wellbeing. 
@@ -104,7 +104,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'Once I started to see what was possible with data science, there was no going back.'" Real World Data Science, June 20, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/06/20/chanuki-seresinhe.html)
+: Tarran, Brian. 2023. "'Once I started to see what was possible with data science, there was no going back.'" Global Business Services Today, June 20, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/06/20/chanuki-seresinhe.html)
 :::
 :::
 :::

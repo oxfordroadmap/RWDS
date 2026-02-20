@@ -60,7 +60,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2024. "UK government sets out 10 principles for use of generative AI." Real World Data Science, January 22, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.html)
+: Tarran, Brian. 2024. "UK government sets out 10 principles for use of generative AI." Global Business Services Today, January 22, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.html)
 :::
 :::
 :::

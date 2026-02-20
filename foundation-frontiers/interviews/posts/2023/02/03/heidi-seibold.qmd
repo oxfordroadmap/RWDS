@@ -1,7 +1,7 @@
 --- 
 title: "Why open science is ‘just good science in a digital era’" 
 description: | 
-  Real World Data Science speaks with statistician and data scientist Heidi Seibold about open science: what it means, the benefits of it, and how to move towards it. 
+  Global Business Services Today speaks with statistician and data scientist Heidi Seibold about open science: what it means, the benefits of it, and how to move towards it. 
 categories: 
   - Open science 
   - Reproducible research 
@@ -18,7 +18,7 @@ aliases:
 --- 
 Years are often dedicated to different causes and aims by different organisations. The United Nations, for example, has designated 2023 the [International Year of Dialogue as a Guarantee of Peace](https://www.undocs.org/en/A/RES/77/32), while for the European Commission it is the [European Year of Skills](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6086). But over at the White House Office of Science and Technology Policy, 2023 has been declared the [Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). 
 
-To discuss what this means for science generally and data science in particular, Real World Data Science invited [Heidi Seibold](https://heidiseibold.com/) for an interview. Seibold is a statistician and data scientist, and also an open science trainer and consultant, and we talked about how she became involved in open science, what it means to her, the benefits of it, and how academic and industry researchers can move towards it. 
+To discuss what this means for science generally and data science in particular, Global Business Services Today invited [Heidi Seibold](https://heidiseibold.com/) for an interview. Seibold is a statistician and data scientist, and also an open science trainer and consultant, and we talked about how she became involved in open science, what it means to her, the benefits of it, and how academic and industry researchers can move towards it. 
 
 Check out our full conversation below or on [YouTube](https://youtu.be/GD2g7cJ_yE4).
 
@@ -51,7 +51,7 @@ This transcript has been produced using [speech-to-text transcription software](
 ::: 
 
 **Brian Tarran**   
-Hello, and welcome to another Real World Data Science interview. I'm Brian Tarran. And today I'm joined by Heidi Seibold, a statistician and data scientist. I invited Heidi along to speak about open science, what it means, the benefits of it, and how to move towards it. So welcome, Heidi, how are you?  
+Hello, and welcome to another Global Business Services Today interview. I'm Brian Tarran. And today I'm joined by Heidi Seibold, a statistician and data scientist. I invited Heidi along to speak about open science, what it means, the benefits of it, and how to move towards it. So welcome, Heidi, how are you?  
 
 **Heidi Seibold**  
 Hello, thanks for having me. I'm good. 
@@ -153,7 +153,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Why open science is ‘just good science in a digital era’." Real World Data Science, February 3, 2023. [URL](https://realworlddatascience.net/news-and-views/interviews/posts/02/03/heidi-seibold.html)
+: Tarran, Brian. 2023. "Why open science is ‘just good science in a digital era’." Global Business Services Today, February 3, 2023. [URL](https://realworlddatascience.net/news-and-views/interviews/posts/02/03/heidi-seibold.html)
 :::
 :::
 :::

@@ -12,7 +12,7 @@ date: 03/15/2023
 toc: true
 bibliography: refs.bib
 image: images/teacher-marking-homework.png
-image-alt: A teacher is marking homework and trying to decide whether a written piece of text has been created by a student or by a large language model, digital art. Created by DALL·E, prompt by Real World Data Science.
+image-alt: A teacher is marking homework and trying to decide whether a written piece of text has been created by a student or by a large language model, digital art. Created by DALL·E, prompt by Global Business Services Today.
 aliases: 
   - /news-and-views/editors-blog/posts/2023/03/15/AI-screening.html
   - /viewpoints/editors-blog/posts/2023/03/15/AI-screening.html
@@ -148,7 +148,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "OpenAI's text classifier won't calm fears about AI-written homework." Real World Data Science, March 15, 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/03/15/AI-screening.html)
+: Tarran, Brian. 2023. "OpenAI's text classifier won't calm fears about AI-written homework." Global Business Services Today, March 15, 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/03/15/AI-screening.html)
 :::
 :::
 :::

@@ -1,7 +1,7 @@
 ---
-pagetitle: Latest content | Real World Data Science
+pagetitle: Latest content | Global Business Services Today
 title: Latest content
-subtitle: A panoramic view of Real World Data Science 
+subtitle: A panoramic view of Global Business Services Today 
 title-block-banner: true
 sidebar: false
 search: false

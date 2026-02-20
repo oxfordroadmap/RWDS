@@ -16,7 +16,7 @@ toc: false
 aliases: 
   - /careers/career-profiles/posts/2023/06/28/albert-lee.html
 ---
-This week, in celebration of Pride, Real World Data Science is collaborating with the [JEDI Outreach Group](https://datascijedi.org/) of the [American Statistical Association](https://www.amstat.org/) (ASA) and the [ASA LGBTQ+ Advocacy Committee](https://sites.google.com/view/asa-lgbtq/home) to highlight the achievements of statisticians and data scientists from across the LGBTQ+ spectrum.
+This week, in celebration of Pride, Global Business Services Today is collaborating with the [JEDI Outreach Group](https://datascijedi.org/) of the [American Statistical Association](https://www.amstat.org/) (ASA) and the [ASA LGBTQ+ Advocacy Committee](https://sites.google.com/view/asa-lgbtq/home) to highlight the achievements of statisticians and data scientists from across the LGBTQ+ spectrum.
 
 Members of the committee nominated two individuals to be featured as part of our [career profile](https://realworlddatascience.net/people-paths/career-profiles/) series, and so we're pleased to bring you interviews with Albert Lee (below) and [Claire Morton](claire-morton.qmd).
 
@@ -26,7 +26,7 @@ Read on to discover more about Albert's data science career (so far).
 ---
 :::
 
-**Hi, Albert. Thank you for sharing your career story with Real World Data Science. Please tell us a little about yourself and your role in data science.**\
+**Hi, Albert. Thank you for sharing your career story with Global Business Services Today. Please tell us a little about yourself and your role in data science.**\
 My name is Albert Lee. I’m the founding partner at Summit Consulting, a quantitative and financial consulting firm in Washington, DC. Summit delivers data-driven solutions to help make government effective and society just. I started Summit in 2003, and we recently celebrated our 20th anniversary.  
 
 I received my PhD in economics from UCLA in 1999. My professional practice is focused on econometrics -- an academic specialty that blends economic theory with statistical practices -- and statistical sampling. 
@@ -117,7 +117,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'Living my identity takes courage. It is the same courage necessary to start a new business.'" Real World Data Science, June 28, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/06/28/albert-lee.html)
+: Tarran, Brian. 2023. "'Living my identity takes courage. It is the same courage necessary to start a new business.'" Global Business Services Today, June 28, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/06/28/albert-lee.html)
 :::
 :::
 :::

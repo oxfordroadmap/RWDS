@@ -66,7 +66,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Gohil, Atmajitsinh. 2024. "Nowcasting upgrade for better real time estimation of GDP and inflation." Real World Data Science, June 25, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/06/25/nowcasting-3step.html)
+: Gohil, Atmajitsinh. 2024. "Nowcasting upgrade for better real time estimation of GDP and inflation." Global Business Services Today, June 25, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/06/25/nowcasting-3step.html)
 :::
 :::
 :::

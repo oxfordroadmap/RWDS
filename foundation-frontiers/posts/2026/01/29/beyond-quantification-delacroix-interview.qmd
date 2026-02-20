@@ -15,7 +15,7 @@ image: images/thumb.png
 
 We recently published a [*Data Science Bite*](https://realworlddatascience.net/foundation-frontiers/datasciencebites/posts/2025/11/21/uncertainty.html) breaking down the first position paper of the newly launched journal, [*RSS: Data Science and Artificial Intelligence*](https://academic.oup.com/rssdat). The paper, [*Beyond Quantification: Navigating Uncertainty in Professional AI Systems*](https://academic.oup.com/rssdat/article/1/1/udaf002/8317136), argues that if AI is truly to support professional decision-making in high-stakes fields, we must move beyond probabilistic measures and use participatory approaches that allow experts to collectively express and navigate non-quantifiable forms of uncertainty.
 
-*Real World Data Science* recently had the opportunity to speak to the paper’s lead author, Professor Sylvie Delacroix, about how AI can better support human judgment, why it is crucial to recognise forms of uncertainty that can’t be reduced to numbers, and how participatory design can make AI a true partner, rather than a replacement, for professionals.
+*Global Business Services Today* recently had the opportunity to speak to the paper’s lead author, Professor Sylvie Delacroix, about how AI can better support human judgment, why it is crucial to recognise forms of uncertainty that can’t be reduced to numbers, and how participatory design can make AI a true partner, rather than a replacement, for professionals.
 
 Watch the full interview below and scroll down for key takeaways and some analysis.
 

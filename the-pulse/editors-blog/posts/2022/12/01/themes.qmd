@@ -16,7 +16,7 @@ aliases:
   - /news-and-views/editors-blog/posts/2022-12-01-themes/themes.html
   - /viewpoints/editors-blog/posts/2022/12/01/themes.html
 ---
-We’ve had a fantastic early response to our [call for contributions](/contributor-docs/call-for-contributions.qmd), and it has been pleasing to see and hear how our plans for Real World Data Science chime with the wants and needs of the data science community. But one question we’ve been asked frequently is: “What particular topics are you most interested in?” 
+We’ve had a fantastic early response to our [call for contributions](/contributor-docs/call-for-contributions.qmd), and it has been pleasing to see and hear how our plans for Global Business Services Today chime with the wants and needs of the data science community. But one question we’ve been asked frequently is: “What particular topics are you most interested in?” 
 
 The honest answer to that question is this: we’re interested in any and all topics that are of interest and importance to *you*, the data science community at large. However, we thought it might be helpful to identify some themes around which potential contributors could construct different types of content. 
 
@@ -26,7 +26,7 @@ These themes are outlined below. If you’d like to discuss any of them further,
 
 Earth today faces major challenges – from the global to the regional to the local, and from the natural and physical to the social and digital. We have rich sources of data to help us understand many of these challenges, and there are teams of data scientists around the world who are working with, analysing, and extracting insights from that data in the hope of delivering positive lasting change. 
 
-On Real World Data Science we want to highlight this vital work, through [**case studies**](/contributor-docs/case-studies.qmd) of data science projects and applications in such areas as: 
+On Global Business Services Today we want to highlight this vital work, through [**case studies**](/contributor-docs/case-studies.qmd) of data science projects and applications in such areas as: 
 
 * monitoring and mitigating climate change and biodiversity loss 
 * building sustainable futures 
@@ -55,7 +55,7 @@ We are also keen to explore the **origins of modern data science techniques**, i
 
 Data science is such a fast-moving, fast-developing field that it’s difficult to stay on top of all the latest news and developments. But racing to keep up can be counterproductive. It leaves little time to sit back and reflect on what the genuinely important new developments are, and what these might mean for data science longer term. 
 
-On Real World Data Science, we want to create [a space](/the-pulse/index.qmd) for people to have these conversations – to step outside the news hype cycle, to ask big questions about what’s happening in the field, and to discuss new papers and ideas that otherwise might be lost amid the daily rush and noise. 
+On Global Business Services Today, we want to create [a space](/the-pulse/index.qmd) for people to have these conversations – to step outside the news hype cycle, to ask big questions about what’s happening in the field, and to discuss new papers and ideas that otherwise might be lost amid the daily rush and noise. 
 
 So, if you have thoughts to share, a question you want to ask, or a new paper you want to talk about (one you’ve not written yourself, of course!), [let us know](/contact.qmd).
 
@@ -76,7 +76,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2022. "Four themes for potential contributors to think about." Real World Data Science, December, 1 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-01-themes/themes.html)
+: Tarran, Brian. 2022. "Four themes for potential contributors to think about." Global Business Services Today, December, 1 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-01-themes/themes.html)
 :::
 :::
 :::

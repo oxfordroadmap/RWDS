@@ -1,5 +1,5 @@
 ---
-pagetitle: Editors' Blog | The Pulse | Real World Data Science
+pagetitle: Editors' Blog | The Pulse | Global Business Services Today
 title: Editors' blog
 subtitle: News, updates, and discussions from the Editorial Board
 search: false

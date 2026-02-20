@@ -1,17 +1,17 @@
 ---
-title: "Welcome to Real World Data Science"
+title: "Welcome to Global Business Services Today"
 subtitle: A showcase for data science in action
 sidebar: false
 page-layout: article
 toc: false
 title-block-banner: true
 ---
-Welcome to the home of **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
+Welcome to the home of **Global Business Services Today**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
 
 [Meet the team](the-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd)
 
 ## What are our aims?
-As the field of data science evolves rapidly - with new tools, controversies, and breakthroughs emerging almost daily - Real World Data Science offers a space for timely, thoughtful responses grounded in the expertise of our contributors and reviewed by a distinguished editorial board.
+As the field of data science evolves rapidly - with new tools, controversies, and breakthroughs emerging almost daily - Global Business Services Today offers a space for timely, thoughtful responses grounded in the expertise of our contributors and reviewed by a distinguished editorial board.
 We want to serve people working in data science who are looking for practical insights, methodological rigour and thought-leadership that informs their work and decision-making.
 We want to help you: 
   

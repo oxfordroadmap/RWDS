@@ -103,7 +103,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Torabi, Fatemeh, Hotchkiss, Lewis, Squires, Emma, Thompson, Simon E. and Lyons, Ronan A. 2024. "Getting the data right for optimised AI performance." Real World Data Science, May 7, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/07/ai-series-3.html)
+:   Torabi, Fatemeh, Hotchkiss, Lewis, Squires, Emma, Thompson, Simon E. and Lyons, Ronan A. 2024. "Getting the data right for optimised AI performance." Global Business Services Today, May 7, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/07/ai-series-3.html)
 :::
 :::
 :::

@@ -97,7 +97,7 @@ MacKay, R. J., & Oldford, R. W. (2000). Scientific method, statistical method an
 
 Rozemberczki, B., Watson, L., Bayer, P., Yang, H. T., Kiss, O., Nilsson, S., & Sarkar, R. (2022). Theshapleyvalue in machine learning. In*The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence*(pp. 5572-5579). International Joint Conferences on Artificial Intelligence Organization.
 
-Sassoon, I. (2023, November 6). How to 'open science': A brief guide to principles and practices.*Real World Data Science*. https://realworlddatascience.net/foundation-frontiers/posts/2023/11/06/how-to-open-science.html
+Sassoon, I. (2023, November 6). How to 'open science': A brief guide to principles and practices.*Global Business Services Today*. https://realworlddatascience.net/foundation-frontiers/posts/2023/11/06/how-to-open-science.html
 
 Scientific method. (2025, November). In*Wikipedia*.
 
@@ -123,5 +123,5 @@ Copyright and licence
 
 :::
 ::: {.g-col-12 .g-col-md-6}
-: Jensen, Willis. Torabi, Fatemeh. McGee, Monnie. Sassoon, Isabel. "Keeping the Science in Data Science," Real World Data Science, December 04, 2025. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2025/11/27/scienceindatascience.html)
+: Jensen, Willis. Torabi, Fatemeh. McGee, Monnie. Sassoon, Isabel. "Keeping the Science in Data Science," Global Business Services Today, December 04, 2025. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2025/11/27/scienceindatascience.html)
 :::

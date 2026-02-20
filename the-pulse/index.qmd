@@ -1,5 +1,5 @@
 ---
-pagetitle: The Pulse | Real World Data Science
+pagetitle: The Pulse | Global Business Services Today
 title: The Pulse
 subtitle: "Critical perspectives on the stories, themes, challenges and opportunities shaping data science. In this section: [Editors' blog](editors-blog/index.qmd) | [Newsletter](newsletter/index.qmd)"
 search: false

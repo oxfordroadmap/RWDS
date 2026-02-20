@@ -132,7 +132,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Shipp S, Salvo J, Lancaster V (2024). "Statistical Products in a 21^st^ Century Census Curated Data Enterprise Environment" Real World Data Science, November 22, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/22/development-plan-2.html)
+: Shipp S, Salvo J, Lancaster V (2024). "Statistical Products in a 21^st^ Century Census Curated Data Enterprise Environment" Global Business Services Today, November 22, 2024. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2024/11/22/development-plan-2.html)
 :::
 :::
 :::

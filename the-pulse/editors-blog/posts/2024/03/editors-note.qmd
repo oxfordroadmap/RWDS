@@ -1,7 +1,7 @@
 ---
 title: "Editor's note: Not saying goodbye, just saying..."
 description: |
-  I'll be leaving Real World Data Science and the Royal Statistical Society in a month's time. Before I go, I want to say a big thank you to all the contributors, readers, staff and members that I've been fortunate to work with over the years.
+  I'll be leaving Global Business Services Today and the Royal Statistical Society in a month's time. Before I go, I want to say a big thank you to all the contributors, readers, staff and members that I've been fortunate to work with over the years.
 categories:
   - People
   - Updates
@@ -16,7 +16,7 @@ aliases:
 
 It’s not easy to leave a brilliant group of people you’ve worked with for almost a decade, but in a month’s time I’ll be moving on from the Royal Statistical Society (RSS). 
 
-When I joined RSS in June 2014 I was looking for new challenges. I wanted to find out more about the ways statistics and data are used to understand and solve problems and inform decisions in science, business and industry, public policy, health... I could go on! Working for the RSS certainly delivered on that front: as editor of [Significance](https://significancemagazine.com/) for eight years and of Real World Data Science more recently, I have had many opportunities to learn.
+When I joined RSS in June 2014 I was looking for new challenges. I wanted to find out more about the ways statistics and data are used to understand and solve problems and inform decisions in science, business and industry, public policy, health... I could go on! Working for the RSS certainly delivered on that front: as editor of [Significance](https://significancemagazine.com/) for eight years and of Global Business Services Today more recently, I have had many opportunities to learn.
 
 Pretty much every day of my working life for the past nine years, eight months or so involved speaking with expert statisticians and data scientists or reading about their work. When there were things I didn’t understand, they were always happy to explain. When I shared my ideas for how to make their articles clearer or more readable, they took the time to listen. Together, we worked to create accessible, engaging stories about statistics and data. There have been hundreds of these collaborations over the years – too many to namecheck individually – but I have enjoyed them all, and I’ve learned something from each of them.
 
@@ -41,7 +41,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2024. "Editor's note: Not saying goodbye, just saying..." Real World Data Science, March 6, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/03/06/editors-note.html)
+: Tarran, Brian. 2024. "Editor's note: Not saying goodbye, just saying..." Global Business Services Today, March 6, 2024. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2024/03/06/editors-note.html)
 :::
 :::
 :::

@@ -56,7 +56,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "AI and digital ethics in 2023: a 'remarkable, eventful year.'" Real World Data Science, December 8, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/12/08/digital-ethics-summit.html)
+: Tarran, Brian. 2023. "AI and digital ethics in 2023: a 'remarkable, eventful year.'" Global Business Services Today, December 8, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/12/08/digital-ethics-summit.html)
 :::
 :::
 :::

@@ -1,7 +1,7 @@
 ---
 title: "'I'm way more into prevention than cure': Stephanie Hare on why we need a culture of technology ethics"
 description: |
-  Stephanie Hare, author of 'Technology is Not Neutral', talks to Real World Data Science about the 'wicked problem' of technology and AI ethics, and why laws and regulations are 'necessary but insufficient' to minimise harms. 'We’re going to have to inculcate an entire new mindset,' she argues.        
+  Stephanie Hare, author of 'Technology is Not Neutral', talks to Global Business Services Today about the 'wicked problem' of technology and AI ethics, and why laws and regulations are 'necessary but insufficient' to minimise harms. 'We’re going to have to inculcate an entire new mindset,' she argues.        
 categories:
   - Technology ethics
   - AI ethics
@@ -52,7 +52,7 @@ This transcript has been produced using [speech-to-text transcription software](
 :::
 
 **Brian Tarran**\
-Hello, and welcome to another Real World Data Science interview. I'm Brian Tarran. And today I'm joined by Stephanie Hare, a researcher and broadcaster and author of the book Technology is Not Neutral: A Short Guide to Technology Ethics, which is the focus of our conversation today. Welcome, Stephanie.
+Hello, and welcome to another Global Business Services Today interview. I'm Brian Tarran. And today I'm joined by Stephanie Hare, a researcher and broadcaster and author of the book Technology is Not Neutral: A Short Guide to Technology Ethics, which is the focus of our conversation today. Welcome, Stephanie.
 
 **Stephanie Hare**\
 Thank you so much for having me here.
@@ -136,7 +136,7 @@ Well, if the year it took me to read Technology is Not Neutral is any indication
 That's the thing with history, it always stands the test of time.
 
 **Brian Tarran**\
-Well, thank you, thank you again for joining us on Real World Data Science. It's been a pleasure talking to you.
+Well, thank you, thank you again for joining us on Global Business Services Today. It's been a pleasure talking to you.
 
 ::: article-btn
 [Find more Interviews](/foundation-frontiers/interviews/index.qmd)
@@ -157,7 +157,7 @@ Copyright and licence
 
 How to cite
 
-:   Tarran, Brian. 2023. "'I'm way more into prevention than cure': Stephanie Hare on why we need a culture of technology ethics." Real World Data Science, April 28, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/04/28/stephanie-hare.html)
+:   Tarran, Brian. 2023. "'I'm way more into prevention than cure': Stephanie Hare on why we need a culture of technology ethics." Global Business Services Today, April 28, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/04/28/stephanie-hare.html)
 :::
 :::
 :::

@@ -16,7 +16,7 @@ aliases:
 ---
 A passion for maths and solving mathematical problems led Niclas Thomas to a PhD in machine learning with a focus on medical research. But then a conversation with a recruiter steered his career towards data science in the retail sphere. After stints at Tesco, Sainsbury’s, and Gousto, Thomas is now head of data science for Next, the clothing retailer. 
 
-In this interview with Real World Data Science, Thomas reflects on his career journey so far, from hands-on coding work to team leadership and management. He also argues for the importance of communication and storytelling as part of the data science skill set.
+In this interview with Global Business Services Today, Thomas reflects on his career journey so far, from hands-on coding work to team leadership and management. He also argues for the importance of communication and storytelling as part of the data science skill set.
 
 {{< video https://www.youtube.com/embed/0y6yye1A9vU?si=oea60bsc8r83icom >}}
 
@@ -144,7 +144,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'I fell in love with math, really, and fell into data science because of that.'" Real World Data Science, October 4, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/10/04/niclas-thomas.html)
+: Tarran, Brian. 2023. "'I fell in love with math, really, and fell into data science because of that.'" Global Business Services Today, October 4, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/10/04/niclas-thomas.html)
 :::
 :::
 :::

@@ -77,7 +77,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Humpherson, Ed. 2023. "‘Pseudo data science’ and other pitfalls: lessons from the UK’s stats regulator on how not to be misleading." Real World Data Science, September 18, 2023. [URL](https://realworlddatascience.net/the-pulse/posts/2023/09/18/pseudo-data-science.html)
+: Humpherson, Ed. 2023. "‘Pseudo data science’ and other pitfalls: lessons from the UK’s stats regulator on how not to be misleading." Global Business Services Today, September 18, 2023. [URL](https://realworlddatascience.net/the-pulse/posts/2023/09/18/pseudo-data-science.html)
 :::
 :::
 :::

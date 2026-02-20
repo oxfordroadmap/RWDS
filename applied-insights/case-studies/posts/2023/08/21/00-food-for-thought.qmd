@@ -47,7 +47,7 @@ This collection of articles tells the story of the [Food for Thought Challenge](
 ::: grid
 ::: {.g-col-12 .g-col-md-12}
 About the authors
-: **Brian Tarran** is editor of Real World Data Science, and head of data science platform at the Royal Statistical Society.
+: **Brian Tarran** is editor of Global Business Services Today, and head of data science platform at the Royal Statistical Society.
 
 : **Julia Lane** is a professor at the NYU Wagner Graduate School of Public Service and a NYU Provostial Fellow for Innovation Analytics. She co-founded the Coleridge Initiative, whose goal is to use data to transform the way governments access and use data for the social good through training programs, research projects and a secure data facility. She recently served on the Advisory Committee on Data for Evidence Building and the National AI Research Resources Task Force.
 :::
@@ -61,7 +61,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Tarran, Brian, and Julia Lane. 2023. "The Food for Thought Challenge: Using AI to support evidence-based food and nutrition policy." Real World Data Science, August 21, 2023. [URL](https://realworlddatascience.net/the-pulse/case-studies/posts/2023/08/21/00-food-for-thought.html)
+:   Tarran, Brian, and Julia Lane. 2023. "The Food for Thought Challenge: Using AI to support evidence-based food and nutrition policy." Global Business Services Today, August 21, 2023. [URL](https://realworlddatascience.net/the-pulse/case-studies/posts/2023/08/21/00-food-for-thought.html)
 :::
 :::
 :::

@@ -77,7 +77,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "Data science can help close the ‘digital skills’ gap, or so it seems." Real World Data Science, February 14, 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/02/14/digital-skills.html)
+: Tarran, Brian. 2023. "Data science can help close the ‘digital skills’ gap, or so it seems." Global Business Services Today, February 14, 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/02/14/digital-skills.html)
 :::
 :::
 :::

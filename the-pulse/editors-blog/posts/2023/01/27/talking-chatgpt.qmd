@@ -27,7 +27,7 @@ There are still major challenges to overcome, says Nauck - not least the fact th
 
 Check out the full conversation below or on [YouTube](https://www.youtube.com/watch?v=AWxfSmcgPbo).  
 
-Detlef Nauck is a member of the [Real World Data Science editorial board](/news-and-views/editors-blog/posts/2022-10-18-meet-the-team/meet-the-team.html) and head of AI and data science research for BT's Applied Research Division.
+Detlef Nauck is a member of the [Global Business Services Today editorial board](/news-and-views/editors-blog/posts/2022-10-18-meet-the-team/meet-the-team.html) and head of AI and data science research for BT's Applied Research Division.
 
 {{< video https://www.youtube.com/embed/AWxfSmcgPbo >}}
 
@@ -126,7 +126,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "ChatGPT can hold a conversation, but lacks knowledge representation and original sources for verification." Real World Data Science, January, 27 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/01/27/talking-chatgpt.html)
+: Tarran, Brian. 2023. "ChatGPT can hold a conversation, but lacks knowledge representation and original sources for verification." Global Business Services Today, January, 27 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/01/27/talking-chatgpt.html)
 :::
 :::
 :::

@@ -1,5 +1,5 @@
 ---
-pagetitle: Tutorials | Applied Insights | Real World Data Science
+pagetitle: Tutorials | Applied Insights | Global Business Services Today
 title: Tutorials
 subtitle: Hands-on explorations of data science concepts, tools and methods
 search: false

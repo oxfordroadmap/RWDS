@@ -25,7 +25,7 @@ share:
   email: true
 ---
 
-Alberto Cairo is Knight Chair in Visual Journalism at the School of Communication of the University of Miami (UM). He’s also the director of visualization at UM’s Institute for Data Science and Computing. He joins Real World Data Science to discuss his upcoming book, *The Art of Insight: How Great Visualization Designers Think*, in which Cairo reflects on his conversations with data artists, data journalists, and information designers. 
+Alberto Cairo is Knight Chair in Visual Journalism at the School of Communication of the University of Miami (UM). He’s also the director of visualization at UM’s Institute for Data Science and Computing. He joins Global Business Services Today to discuss his upcoming book, *The Art of Insight: How Great Visualization Designers Think*, in which Cairo reflects on his conversations with data artists, data journalists, and information designers. 
 
 “If we can conceptualise data visualization as language, this language can have multiple dialects,” says Cairo. “And these dialects -- let's say the statistical dialect, the data journalism dialect, the art dialect -- they are not mutually exclusive. They exist, or they should exist, ideally, in constant conversation with each other. So, we can borrow ideas from each other, learn from each other.”
 
@@ -42,7 +42,7 @@ This transcript has been produced using [speech-to-text transcription software](
 :::
 
 **Brian Tarran**  
-Hello, and welcome to Real World Data Science. I'm Brian Tarran. And today I'm joined by Alberto Cairo, Knight chair in visual journalism at the School of Communication of the University of Miami. He's also the director of visualization at UM's Institute for data science and computing. Alberto, welcome. Thanks for joining us.
+Hello, and welcome to Global Business Services Today. I'm Brian Tarran. And today I'm joined by Alberto Cairo, Knight chair in visual journalism at the School of Communication of the University of Miami. He's also the director of visualization at UM's Institute for data science and computing. Alberto, welcome. Thanks for joining us.
 
 **Alberto Cairo**  
 Hi, Brian. Very nice to be here. Thank you for inviting me.
@@ -149,7 +149,7 @@ Copyright and licence
 ::: {.g-col-12 .g-col-md-6}
 
 How to cite
-:   Tarran, Brian. 2023. "The many ‘dialects’ of data visualization: Alberto Cairo and ‘The Art of Insight.’" Real World Data Science, August 1, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/08/01/alberto-cairo.html)
+:   Tarran, Brian. 2023. "The many ‘dialects’ of data visualization: Alberto Cairo and ‘The Art of Insight.’" Global Business Services Today, August 1, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/08/01/alberto-cairo.html)
 :::
 :::
 :::

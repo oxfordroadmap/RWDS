@@ -16,7 +16,7 @@ toc: false
 aliases: 
   - /careers/career-profiles/posts/2023/06/28/claire-morton.html
 ---
-This week, in celebration of Pride, Real World Data Science is collaborating with the [JEDI Outreach Group](https://datascijedi.org/) of the [American Statistical Association](https://www.amstat.org/) (ASA) and the [ASA LGBTQ+ Advocacy Committee](https://sites.google.com/view/asa-lgbtq/home) to highlight the achievements of statisticians and data scientists from across the LGBTQ+ spectrum.
+This week, in celebration of Pride, Global Business Services Today is collaborating with the [JEDI Outreach Group](https://datascijedi.org/) of the [American Statistical Association](https://www.amstat.org/) (ASA) and the [ASA LGBTQ+ Advocacy Committee](https://sites.google.com/view/asa-lgbtq/home) to highlight the achievements of statisticians and data scientists from across the LGBTQ+ spectrum.
 
 Members of the committee nominated two individuals to be featured as part of our [career profile](https://realworlddatascience.net/people-paths/career-profiles/) series, and so we are pleased to bring you interviews with Claire Morton (below) and [Albert Lee](albert-lee.qmd).
 
@@ -26,7 +26,7 @@ Read on to discover more about Claire's data science career (so far).
 ---
 :::
 
-**Hi, Claire. Thank you for sharing your career story with Real World Data Science. Please tell us a little about yourself and your role in data science.**\
+**Hi, Claire. Thank you for sharing your career story with Global Business Services Today. Please tell us a little about yourself and your role in data science.**\
 My name is Claire Morton, and I’m an undergraduate student studying mathematical and computational science and environmental justice at Stanford University. I’m particularly interested in using statistics and data science to work with community-based organizations and advance evidence-based environmental justice policy. I have conducted quantitative research on tools to classify disadvantaged communities, oil wells, climate resilience, housing justice, and the connections between soil and health. 
 
 **What drew you to study statistics and data science?**\
@@ -104,7 +104,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'I was inspired by the power that numerical data have to tell stories and promote policy change.'" Real World Data Science, June 28, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/06/28/claire-morton.html)
+: Tarran, Brian. 2023. "'I was inspired by the power that numerical data have to tell stories and promote policy change.'" Global Business Services Today, June 28, 2023. [URL](https://realworlddatascience.net/people-paths/career-profiles/posts/2023/06/28/claire-morton.html)
 :::
 :::
 :::

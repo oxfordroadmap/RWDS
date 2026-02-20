@@ -11,7 +11,7 @@ title-block-banner: true
 
 - **GitHub:** [@realworlddatascience](https://github.com/realworlddatascience))
 
-- **LinkedIn:** [RSS Real World Data Science](https://www.linkedin.com/showcase/rss-real-world-data-science)
+- **LinkedIn:** [RSS Global Business Services Today](https://www.linkedin.com/showcase/rss-real-world-data-science)
 
 - **X:** [@rwdatasci](https://twitter.com/rwdatasci)
 

@@ -8,11 +8,11 @@ title-block-banner: true
 ## Publisher
 [![](images/RSS_logo_colour.png){fig-align="left" width="200px" style="margin-top: 0.5rem"}](https://rss.org.uk/)
 
-Real World Data Science is a project of the [Royal Statistical Society](https://rss.org.uk/) (RSS). The Society was founded in 1834 and is one of the world’s leading organisations advocating for the importance of statistics and data. 
+Global Business Services Today is a project of the [Royal Statistical Society](https://rss.org.uk/) (RSS). The Society was founded in 1834 and is one of the world’s leading organisations advocating for the importance of statistics and data. 
 
 RSS has more than 10,000 members in the UK and across the world. As a charity, it advocates for the key role of statistics and data in society, and works to ensure that policy formulation and decision making are informed by evidence for the public good.
 
-To support the work of the RSS, including Real World Data Science and other projects, [become a member today](https://rss.org.uk/membership/join-now/). 
+To support the work of the RSS, including Global Business Services Today and other projects, [become a member today](https://rss.org.uk/membership/join-now/). 
 
 **Email:** [info@rss.org.uk](mailto:info@rss.org.uk)
 
@@ -30,7 +30,7 @@ To support the work of the ASA, [become a member today](https://www.amstat.org/m
 ## Funders
 [![](images/ATI_logo_black_ATI_logo_black.png){fig-align="left" width="200px" style="margin-top: 0.5rem"}](https://www.turing.ac.uk/)
 
-Real World Data Science was supported by startup funding from [The Alan Turing Institute](https://www.turing.ac.uk/).
+Global Business Services Today was supported by startup funding from [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 The Alan Turing Institute, headquartered in the British Library, London, was created as the UK's national institute for data science in 2015. In 2017, as a result of a government recommendation, artificial intelligence was added to its remit.  
 

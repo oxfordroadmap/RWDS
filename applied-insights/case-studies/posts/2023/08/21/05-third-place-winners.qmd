@@ -55,7 +55,7 @@ Finally, we needed a GPU in order to efficiently train our BERT models. However,
 To deal with the inability to run jobs in the background, our process was checkpointing our models every five batches, and saving the model predictions during evaluation to a csv file every five batches as well.
 
 ::: {.callout-note appearance="simple"}
-Find the code in the [Real World Data Science GitHub repository](https://github.com/realworlddatascience/realworlddatascience.github.io/tree/main/case-studies/posts/2023/08/21/_code).
+Find the code in the [Global Business Services Today GitHub repository](https://github.com/realworlddatascience/realworlddatascience.github.io/tree/main/case-studies/posts/2023/08/21/_code).
 :::
 
 ## Our results
@@ -125,7 +125,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Hu, Yifan, and Mandy Korpusik. 2023. "Food for Thought: Third place winners -- Loyola Marymount." Real World Data Science, August 21, 2023. [URL](https://realworlddatascience.net/the-pulse/case-studies/posts/2023/08/21/05-third-place-winners.html)
+: Hu, Yifan, and Mandy Korpusik. 2023. "Food for Thought: Third place winners -- Loyola Marymount." Global Business Services Today, August 21, 2023. [URL](https://realworlddatascience.net/the-pulse/case-studies/posts/2023/08/21/05-third-place-winners.html)
 :::
 :::
 :::

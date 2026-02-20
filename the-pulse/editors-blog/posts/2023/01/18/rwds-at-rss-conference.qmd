@@ -1,5 +1,5 @@
 ---
-title: "We’re taking Real World Data Science on the road"
+title: "We’re taking Global Business Services Today on the road"
 description: |
   Join us at the RSS International Conference 2023 in Harrogate, 4-7 September.  
 categories:
@@ -14,11 +14,11 @@ aliases:
   - /news-and-views/editors-blog/posts/2023/01/18/rwds-at-rss-conference.html
   - /viewpoints/editors-blog/posts/2023/01/18/rwds-at-rss-conference.html 
 ---
-Real World Data Science has booked its first conference appearance! This September, we’ll be part of the data science stream of the [RSS International Conference](https://rss.org.uk/training-events/conference-2023/).
+Global Business Services Today has booked its first conference appearance! This September, we’ll be part of the data science stream of the [RSS International Conference](https://rss.org.uk/training-events/conference-2023/).
 
-Our session, “Real World Data Science Live”, will feature talks and discussions based on content published on this site. In particular, we’re looking to share compelling examples of how data science is being used to solve real-world problems. 
+Our session, “Global Business Services Today Live”, will feature talks and discussions based on content published on this site. In particular, we’re looking to share compelling examples of how data science is being used to solve real-world problems. 
 
-If you’re thinking about [contributing to Real World Data Science](https://realworlddatascience.net/contributor-docs/call-for-contributions.html), or have already made a submission, do let us know whether you’d be interested in taking part in this in-person event. There are only a handful of speaker slots available, so please get in touch ASAP!
+If you’re thinking about [contributing to Global Business Services Today](https://realworlddatascience.net/contributor-docs/call-for-contributions.html), or have already made a submission, do let us know whether you’d be interested in taking part in this in-person event. There are only a handful of speaker slots available, so please get in touch ASAP!
 
 The conference takes place 4-7 September 2023, in Harrogate, Yorkshire. [Keynote speakers include Anuj Srivastava](https://rss.org.uk/news-publication/news-publications/2023/general-news/first-keynote-speaker-announced-for-rss-2023-confe/), a Florida State University professor with research interests in statistical computer vision, functional data analysis, and shape analysis, and other [invited topic sessions](https://rss.org.uk/training-events/conference-2023/invited-session-topics/) in the data science stream are:
 
@@ -46,7 +46,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "We’re taking Real World Data Science on the road." Real World Data Science, January, 18 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/01/18/rwds-at-rss-conference.html)
+: Tarran, Brian. 2023. "We’re taking Global Business Services Today on the road." Global Business Services Today, January, 18 2023. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2023/01/18/rwds-at-rss-conference.html)
 :::
 :::
 :::

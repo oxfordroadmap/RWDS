@@ -80,7 +80,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2022. "LLMs in the news: hype, tripe, and everything in between." Real World Data Science, December, 9 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-09-LLM-news/LLM-news.html)
+: Tarran, Brian. 2022. "LLMs in the news: hype, tripe, and everything in between." Global Business Services Today, December, 9 2022. [URL](https://realworlddatascience.net/news-and-views/editors-blog/posts/2022-12-09-LLM-news/LLM-news.html)
 :::
 :::
 :::

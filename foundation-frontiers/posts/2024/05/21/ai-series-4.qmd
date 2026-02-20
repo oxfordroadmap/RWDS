@@ -89,7 +89,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-:   Sassoon, Isabel. 2024. "Evaluation essentials for safe and reliable AI model performance ." Real World Data Science, May 21, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/06/ai-series-4.html)
+:   Sassoon, Isabel. 2024. "Evaluation essentials for safe and reliable AI model performance ." Global Business Services Today, May 21, 2024. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/05/06/ai-series-4.html)
 :::
 :::
 :::

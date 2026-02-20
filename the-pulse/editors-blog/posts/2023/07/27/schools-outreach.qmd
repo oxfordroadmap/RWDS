@@ -44,7 +44,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'Go out and talk about data science, particularly to schoolchildren.'" Real World Data Science, July 27, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/07/27/schools-outreach.html)
+: Tarran, Brian. 2023. "'Go out and talk about data science, particularly to schoolchildren.'" Global Business Services Today, July 27, 2023. [URL](https://realworlddatascience.net/the-pulse/editors-blog/posts/2023/07/27/schools-outreach.html)
 :::
 :::
 :::

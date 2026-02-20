@@ -1,7 +1,7 @@
 ---
 title: "'I would like modellers to be less ambitious in developing monster models that are impossible to inspect'"
 description: |
-  Real World Data Science interviews Andrea Saltelli, co-editor of 'The Politics of Modelling,' about pandemic models, trust in science, and why we must seek to uncover the assumptions that shape model outputs.
+  Global Business Services Today interviews Andrea Saltelli, co-editor of 'The Politics of Modelling,' about pandemic models, trust in science, and why we must seek to uncover the assumptions that shape model outputs.
 categories:
   - Modelling
   - Public policy
@@ -91,7 +91,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'I would like modellers to be less ambitious in developing monster models that are impossible to inspect.'" Real World Data Science, November 24, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/11/24/politics-of-modelling.html)
+: Tarran, Brian. 2023. "'I would like modellers to be less ambitious in developing monster models that are impossible to inspect.'" Global Business Services Today, November 24, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/11/24/politics-of-modelling.html)
 :::
 :::
 :::

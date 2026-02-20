@@ -47,7 +47,7 @@ We ensemble the base-string match and BERT models. BERT is a deep learning model
 :::
 
 ::: {.callout-note style="margin-top: 2rem;" appearance="simple"}
-Find the code in the [Real World Data Science GitHub repository](https://github.com/realworlddatascience/realworlddatascience.github.io/tree/main/case-studies/posts/2023/08/21/_code).
+Find the code in the [Global Business Services Today GitHub repository](https://github.com/realworlddatascience/realworlddatascience.github.io/tree/main/case-studies/posts/2023/08/21/_code).
 :::
 
 ## Our results 
@@ -110,7 +110,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Wu, Yang, Aishwarya Budhkar, Kai Zhang, Xuhong Zhang, and Xiaozhong Liu. 2023. "Food for Thought: Second place winners -- DeepFFTLink." Real World Data Science, August 21, 2023. [URL](https://realworlddatascience.net/the-pulse/case-studies/posts/2023/08/21/04-second-place-winners.html)
+: Wu, Yang, Aishwarya Budhkar, Kai Zhang, Xuhong Zhang, and Xiaozhong Liu. 2023. "Food for Thought: Second place winners -- DeepFFTLink." Global Business Services Today, August 21, 2023. [URL](https://realworlddatascience.net/the-pulse/case-studies/posts/2023/08/21/04-second-place-winners.html)
 :::
 :::
 :::

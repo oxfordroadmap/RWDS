@@ -89,7 +89,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tarran, Brian. 2023. "'Statistics and data science are at the heart of the AI movement -- we want to be a strong voice in the debate.'" Real World Data Science, October 25, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/10/25/evaluating-ai.html)
+: Tarran, Brian. 2023. "'Statistics and data science are at the heart of the AI movement -- we want to be a strong voice in the debate.'" Global Business Services Today, October 25, 2023. [URL](https://realworlddatascience.net/foundation-frontiers/interviews/posts/2023/10/25/evaluating-ai.html)
 :::
 :::
 :::

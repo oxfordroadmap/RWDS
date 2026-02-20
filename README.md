@@ -1,6 +1,6 @@
-# Real World Data Science: <br/> Data science and AI in action
+# Global Business Services Today: <br/> Data science and AI in action
 
-Welcome to the home of [Real World Data Science](https://realworlddatascience.net/), a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This repository contains all the source files and code for our website. 
+Welcome to the home of [Global Business Services Today](https://realworlddatascience.net/), a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This repository contains all the source files and code for our website. 
 
 The site and its content are being created and curated by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science and AI in your workplace.
 
@@ -18,7 +18,7 @@ The site and its content are being created and curated by data science practitio
 [![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Our thanks go to these wonderful people for all their contributions to [Real World Data Science](https://realworlddatascience.net/) -- writing articles, developing tutorials, expanding our documentation, creating resources to support other contributors, raising issues, and squishing bugs, among other things ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Our thanks go to these wonderful people for all their contributions to [Global Business Services Today](https://realworlddatascience.net/) -- writing articles, developing tutorials, expanding our documentation, creating resources to support other contributors, raising issues, and squishing bugs, among other things ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -70,21 +70,21 @@ Our thanks go to these wonderful people for all their contributions to [Real Wor
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Become a contributor
-[Real World Data Science](https://realworlddatascience.net/) aims to inform, inspire and strengthen the data science community by showcasing real-world examples of data science practice and bringing together data scientists to share knowledge.
+[Global Business Services Today](https://realworlddatascience.net/) aims to inform, inspire and strengthen the data science community by showcasing real-world examples of data science practice and bringing together data scientists to share knowledge.
 
 We cannot succeed in these aims without the support and contributions of the data science community, so we invite you to review our [open call for contributions](https://realworlddatascience.net/contributor-docs/call-for-contributions.html).
 
 The call for contributions links to detailed notes for the various types of content we are looking to publish, including case studies and tutorials. It describes the website's basic functionality, our ethos, the submission and review process, and what happens post-publication. There's also a style guide with advice on tone and structure, and ways of handling technical content, jargon, figures and more.
 
-While the call for contributions focuses primarily on site content, we also welcome contributions that seek to improve the design and functionality of the site itself. [Real World Data Science](https://realworlddatascience.net/) is built using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system developed by [Posit](https://posit.co/). [We learned a lot from the open-source community in building this site](https://www.youtube.com/watch?v=ncDEqHxMWnE), and we hope we can return the favour in time by expanding the scope of what's possible to build with Quarto.  
+While the call for contributions focuses primarily on site content, we also welcome contributions that seek to improve the design and functionality of the site itself. [Global Business Services Today](https://realworlddatascience.net/) is built using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system developed by [Posit](https://posit.co/). [We learned a lot from the open-source community in building this site](https://www.youtube.com/watch?v=ncDEqHxMWnE), and we hope we can return the favour in time by expanding the scope of what's possible to build with Quarto.  
 
 ## Site and repository structure
 
 ### Overview
 
-[Real World Data Science](https://realworlddatascience.net/) consists of a homepage, 4 main content sections, and a small collection of documents that introduce the site, its aims, our partners and so on. This structure is reflected in our navigation bar:
+[Global Business Services Today](https://realworlddatascience.net/) consists of a homepage, 4 main content sections, and a small collection of documents that introduce the site, its aims, our partners and so on. This structure is reflected in our navigation bar:
 
-![Real World Data Science nav bar](images/nav-bar.PNG)
+![Global Business Services Today nav bar](images/nav-bar.PNG)
 
 Here you can see our four main content sections:
 
@@ -130,7 +130,7 @@ And here's a clearer view of the code:
 
 ``` yaml
 ---
-pagetitle: Case studies | Real World Data Science
+pagetitle: Case studies | Global Business Services Today
 title: Case studies
 subtitle: How data science is used to solve real-world problems in business, public policy and beyond
 search: false
@@ -147,7 +147,7 @@ listing:
   page-size: 30
   feed: true
 ---
-Our case study content is in development. Interested in contributing a case study to Real World Data Science? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd). 
+Our case study content is in development. Interested in contributing a case study to Global Business Services Today? [Check out our call for contributions](/contributor-docs/call-for-contributions.qmd). 
 ```
 
 This is just 19 lines of code, and 18 of them are the YAML configuration for the page. If we  look at a screenshot of the homepage, we can then explore what each line of code is doing on the published page:
@@ -246,7 +246,7 @@ Our repository, like many on GitHub, contains multiple "branches". For the RWDS 
 The `gh-pages` branch is where the RWDS site is served from. Unlike other branches of our repository, we do not manually update the `gh-pages` branch. It is automatically updated any time a change is made to the `main` branch, which is why article/website development work must be done away from the `main` branch until ready to publish/deploy.
 
 ## Create an article
-Before you start creating content for Real World Data Science, we strongly recommend you familiarise yourself with the basics of Quarto. The [Quarto website](https://quarto.org/docs/get-started/) has a short "Get Started" guide with a three-part tutorial that won't take more than an hour to work through. 
+Before you start creating content for Global Business Services Today, we strongly recommend you familiarise yourself with the basics of Quarto. The [Quarto website](https://quarto.org/docs/get-started/) has a short "Get Started" guide with a three-part tutorial that won't take more than an hour to work through. 
 
 If you've never worked with GitHub before, you also want to create your own GitHub account, download the [GitHub Desktop app](https://desktop.github.com/), and have [Git](https://git-scm.com/) installed on your local machine.[^1]
 
@@ -423,7 +423,7 @@ Copyright and licence
 
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Linacre, Robin. 2023. "Deduplicating and linking large datasets using Splink." Real World Data Science, November 22, 2023. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2023/11/22/splink.html)
+: Linacre, Robin. 2023. "Deduplicating and linking large datasets using Splink." Global Business Services Today, November 22, 2023. [URL](https://realworlddatascience.net/applied-insights/case-studies/posts/2023/11/22/splink.html)
 :::
 :::
 :::
@@ -597,7 +597,7 @@ Once a pull request is created, an automated check will begin running. This is b
 
 If the render check passes successfully and all changes are approved, the pull request can be merged. Note, though, that only authorised repository members can merge pull requests.
 
-As soon as the merge is approved, the `main` branch is updated, the automated workflow process begins and, within a few minutes, Real World Data Science will be updated.
+As soon as the merge is approved, the `main` branch is updated, the automated workflow process begins and, within a few minutes, Global Business Services Today will be updated.
 
 ## Any questions?
-Thank you for reading this documentation and your interest in contributing to Real World Data Science. If anything is unclear in this guide, or if you have questions about any aspect of the contributing process, please feel free to either [contact the RWDS team directly](https://realworlddatascience.net/contact.html) or [open an Issue](https://github.com/realworlddatascience/realworlddatascience.github.io/issues) in the RWDS repository.
+Thank you for reading this documentation and your interest in contributing to Global Business Services Today. If anything is unclear in this guide, or if you have questions about any aspect of the contributing process, please feel free to either [contact the RWDS team directly](https://realworlddatascience.net/contact.html) or [open an Issue](https://github.com/realworlddatascience/realworlddatascience.github.io/issues) in the RWDS repository.

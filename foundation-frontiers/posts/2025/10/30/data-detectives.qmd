@@ -62,11 +62,11 @@ One standout idea: organisations could promote a “data amnesty” culture wher
 
 We walked away from the workshop with a clear conclusion: data quality needs a culture shift. It’s not enough to care — we need to prioritise and celebrate the work of those who keep our data trustworthy, while educating other stakeholders about what it involves. 
 
-Shaping the next steps will require keeping this conversation going within the data community and Real World Data Science can play an integral role in that. As a direct result of this piece, we have [updated our submission guidelines](https://realworlddatascience.net/contributor-docs/call-for-contributions.html) to include recommendations for transparent data reporting and we would like to publish more stories of data disasters – or disasters averted through careful attention to data quality. 
+Shaping the next steps will require keeping this conversation going within the data community and Global Business Services Today can play an integral role in that. As a direct result of this piece, we have [updated our submission guidelines](https://realworlddatascience.net/contributor-docs/call-for-contributions.html) to include recommendations for transparent data reporting and we would like to publish more stories of data disasters – or disasters averted through careful attention to data quality. 
 
 As one attendee put it, “We need to challenge the data and learn best practice from the get-go.” It’s time to embrace our inner data detectives; the integrity of our insights depends on it. 
 
-Please share your own data disaster stories in the comments, or in the [Real World Data Science inbox](mailto:rwds@rss.org.uk). 
+Please share your own data disaster stories in the comments, or in the [Global Business Services Today inbox](mailto:rwds@rss.org.uk). 
 
 
 ::: article-btn
@@ -89,7 +89,7 @@ Copyright and licence
 :::
 ::: {.g-col-12 .g-col-md-6}
 How to cite
-: Tate, Rosemary A. and Halliday, Roger. 2025. "Why We Should All Be Data Quality Detectives" Real World Data Science, October 30, 20245. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/10/31/data-detectives.html)
+: Tate, Rosemary A. and Halliday, Roger. 2025. "Why We Should All Be Data Quality Detectives" Global Business Services Today, October 30, 20245. [URL](https://realworlddatascience.net/foundation-frontiers/posts/2024/10/31/data-detectives.html)
 :::
 :::
 :::
