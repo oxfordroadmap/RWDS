@@ -37,11 +37,17 @@ jobs:
       #     python -m pip install numpy
       #     python -m pip install matplotlib
 
-      # a "super-command." It performs the render step internally before it starts the publish step.
-      - name: Render and Publish Quarto Project
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          target: github-pages # <--- CRITICAL: Use the "Modern" Artifact method
+          path: _site  # This is where Quarto puts the HTML
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4     
 
       # "Don't bother saving the website files into a branch like gh-pages. Just bundle them up and hand them directly to the GitHub Pages engine."
       #  This below is the old way
