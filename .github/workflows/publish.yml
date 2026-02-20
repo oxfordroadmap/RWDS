@@ -37,8 +37,9 @@ jobs:
       #     python -m pip install numpy
       #     python -m pip install matplotlib
 
-      - name: Render Quarto Project
-        uses: quarto-dev/quarto-actions/render@v2
+      # a "super-command." It performs the render step internally before it starts the publish step.
+      - name: Render and Publish Quarto Project
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: github-pages # <--- CRITICAL: Use the "Modern" Artifact method
 
