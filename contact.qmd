@@ -9,7 +9,7 @@ title-block-banner: true
 
 - **Email:** [rwds@rss.org.uk](mailto:rwds@rss.org.uk)
 
-- **GitHub:** [@realworlddatascience](https://github.com/realworlddatascience))
+- **GitHub:** [@realworlddatascience](https://github.com/oxfordroadmap))
 
 - **LinkedIn:** [RSS Global Business Services Today](https://www.linkedin.com/showcase/rss-real-world-data-science)
 

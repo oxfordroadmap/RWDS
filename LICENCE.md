@@ -20,7 +20,7 @@ Where licence terms for individual articles, videos, images and other published 
 You are not permitted to republish the website in its entirety.
 
 ## Software and services
-Source code and files for the website are available from [GitHub](https://github.com/realworlddatascience/realworlddatascience.github.io). Use of our GitHub repository is governed by the [Contributor Covenant Code of Conduct](/CODE_OF_CONDUCT.md). 
+Source code and files for the website are available from [GitHub](https://github.com/oxfordroadmap/realworlddatascience.github.io). Use of our GitHub repository is governed by the [Contributor Covenant Code of Conduct](/CODE_OF_CONDUCT.md). 
 
 The website is built using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system developed by [Posit](https://posit.co/). Quarto source code and software licences are available from [GitHub](https://github.com/quarto-dev).
 

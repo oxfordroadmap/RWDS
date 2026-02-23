@@ -14,7 +14,7 @@ Global Business Services Today is built on [Quarto](https://quarto.org/), the ne
 
 * **Site users are contributors too.** Through annotation and commenting functionality, site users can interact and converse with authors and other members of the Global Business Services Today community. And with all source files hosted on GitHub, users of our site can raise issues, or fork and propose improvements -- leading to a true exchange of knowledge.
 
-For more on how to work with Global Business Services Today via GitHub, check out our [repository README](https://github.com/realworlddatascience/realworlddatascience.github.io/blob/main/README.md).
+For more on how to work with Global Business Services Today via GitHub, check out our [repository README](https://github.com/oxfordroadmap/realworlddatascience.github.io/blob/main/README.md).
 
 ## The submission process
 1. Contact [Global Business Services Today](mailto:rwds@rss.org.uk) to discuss your proposed submission.
@@ -37,7 +37,7 @@ For more on how to work with Global Business Services Today via GitHub, check ou
 
 4. Draft submissions should be sent via email to [Global Business Services Today](mailto:rwds@rss.org.uk). Alternatively, contributors can commit their drafts to their own GitHub accounts using the [RWDS_post_template repository](https://github.com/finnoh/RWDS_post_template) and the repository link then shared with [Global Business Services Today](mailto:rwds@rss.org.uk).
 
-> For more information on how to work with Global Business Services Today via GitHub, check out our [GitHub repository README](https://github.com/realworlddatascience/realworlddatascience.github.io/blob/main/README.md).
+> For more information on how to work with Global Business Services Today via GitHub, check out our [GitHub repository README](https://github.com/oxfordroadmap/realworlddatascience.github.io/blob/main/README.md).
 
 ## Copyright and content licencing 
 Contributors retain copyright of their work, but agree to publish their work under a Creative Commons licence. Contributors are free to [choose the licence](https://creativecommons.org/choose/) that best suits their content. The chosen licence should be indicated on the draft submission.
