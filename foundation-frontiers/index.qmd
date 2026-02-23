@@ -21,4 +21,4 @@ listing:
 aliases: 
   - /ideas/index.html
 ---
-Interested in contributing to Global Business Services Today? [Check out our call for contributions](https://gbs.today/global-pulse/editors-blog/posts/2025/07/07/relaunch-CFS.html).
+Interested in contributing to Global Business Services Today? Please contact [GBS Today](mailto:contact@gbs.today).

@@ -6,9 +6,9 @@ page-layout: article
 toc: false
 title-block-banner: true
 ---
-Welcome to the home of **Global Business Services Today**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
+Welcome to the home of **Global Business Services Today**, a project by the [Dr. Han-Teng Liao](http://hanteng.sapiens.cv/). This site and its content are being developed and curated to help you deliver timely, quality, impactful AI-driven people-centered innovations in global business services. We connect the dots, meeting the complexity of global value chians and business services.
 
-[Meet the team](global-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd)
+<!-- [Meet the team](global-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd) -->
 
 ## What are our aims?
 As the field of data science evolves rapidly - with new tools, controversies, and breakthroughs emerging almost daily - Global Business Services Today offers a space for timely, thoughtful responses grounded in the expertise of our contributors and reviewed by a distinguished editorial board.

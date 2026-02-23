@@ -1,6 +1,10 @@
 # Global Business Services Today: <br/> Data science and AI in action
 
-Welcome to the home of [Global Business Services Today](https://realworlddatascience.net/), a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This repository contains all the source files and code for our website. 
+Welcome to the home of [Global Business Services Today](https://gbs.today/), a project 
+
+<! -- from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). -->
+
+This repository contains all the source files and code for our website.  
 
 The site and its content are being created and curated by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science and AI in your workplace.
 

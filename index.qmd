@@ -142,7 +142,8 @@ The Global Business Services Today February newsletter is out now! This edition 
 ::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
-Welcome to **Global Business Services Today**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). We bridge the gap between rigorous analysis and real time relevance, meeting the pace and complexity of today's data driven world with the RSS's trademark steadying presence.
+Welcome to **Global Business Services Today**, a project by [Dr. Han-Teng Liao](http://hanteng.sapiens.cv/). This site and its content are being developed and curated to help you deliver timely, quality, impactful  AI-driven people-centered innovations in global business services.
+. We connect the dots, meeting the complexity of global value chians and business services.
 :::
 :::
 :::
@@ -165,11 +166,10 @@ Welcome to **Global Business Services Today**, a new project from the [Royal Sta
 ::: {.pullout-block .black-background}
 ![](images/quote-purple.png){width="100px"}
 
-## Is data science a new and exciting set of skills, necessary for analyzing 21st century data? Or is it (as some have claimed) a rebranding of statistics, which has carefully developed time-honored methods for data analysis over the past century? In this article, we use two popular data science algorithms to examine the difference between data science, statistics, and other occupations. 
-Jonathan Auerbach, David Kepplinger, and Nicholas Rios ask, 'What is data science?'
+## Global Business Services (GBS), once focused on cost reduction, are now at the forefront of technological innovation, driving digital transformation and reshaping global value chains. As GBS evolves, the focus is shifting from simple cost-innovation dynamics to resilience, digital sovereignty, and "shoring" strategies. In particular, the rise of AI and automation is transforming GBS operations, enabling more efficient processes and new service offerings. Especially for middle powers such as Malaysia and Poland, multinational corporations, doing GBS right can reap significant benefits in terms of competitiveness and economic growth. 
 
 ::: {.button}
-[Read their analysis](foundation-frontiers/posts/2024/02/19/what-is-data-science.qmd)
+[Read Liao's analysis](foundation-frontiers/posts/2024/02/19/what-is-data-science.qmd)
 :::
 
 :::
@@ -207,11 +207,11 @@ Jonathan Auerbach, David Kepplinger, and Nicholas Rios ask, 'What is data scienc
 ::: {.pullout-block .black-background}
 ![](images/quote-purple.png){width="100px"}
 
-## Generative AI is based on neural networks, which are so-called ‘black boxes’. This makes it difficult or impossible to explain the inner workings of the model which has potential implications if in the future you are challenged to justify decisioning or guidance based on the model.
-Excerpt from the UK government's framework for the use of generative AI
+## Leading MNCs are now treating Generative AI as the primary engine to evolve GBS from a "back-office cost center" into a "strategic intelligence hub." This shift is driven by the transformative potential of Generative AI to enhance decision-making, automate complex processes, and create new value propositions. By leveraging Generative AI, GBS can move beyond traditional cost-saving roles to become a critical driver of innovation and competitive advantage in the global business landscape.
+
 
 ::: {.button}
-[Read our key takeaways](global-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.qmd)
+[Read Liao's key takeaways](global-pulse/editors-blog/posts/2024/01/22/gen-ai-framework.qmd)
 :::
 
 :::
@@ -251,31 +251,41 @@ Excerpt from the UK government's framework for the use of generative AI
 
 
 ::: {.g-col-12 .g-col-md-2}
+<!--
 ### Published by
 [![](images/rss-footer-new.png){fig-align="left"}](https://rss.org.uk/)
+-->
 :::
 ::: {.g-col-12 .g-col-md-2}
+<!--
 ### Our partners
 [![](images/asa-footer-new.png){fig-align="left"}](https://www.amstat.org/)
+-->
 :::
 ::: {.g-col-12 .g-col-md-2}
+<!--
 ### With support from 
 [![](images/ati-footer-new.png){fig-align="left"}](https://www.turing.ac.uk/)
+-->
 :::
 ::: {.g-col-12 .g-col-md-2}
 :::
 ::: {.g-col-12 .g-col-md-2}
 ### About us
+<!--
 [Our aims](about-rwds.qmd)\
 [Our team](/global-pulse/editors-blog/posts/2022/10/18/meet-the-team.qmd)\
 [Partners and funders](rwds-partners.qmd)\
 [Contact us](contact.qmd)
+-->
 :::
 ::: {.g-col-12 .g-col-md-2}
 ### Contribute
+<!--
 [Call for contributions](/contributor-docs/call-for-contributions.qmd)\
 [Contributor guidelines](/contributor-docs/contributor-guidelines.qmd)\
 [Style guide](/contributor-docs/style-guide.qmd)
+-->
 :::
 
 
